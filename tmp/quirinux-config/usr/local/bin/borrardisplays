@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Ruta al archivo displays.xml
+FILE="$HOME/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml"
+
+# Comprobar si el archivo existe
+if [ -f "$FILE" ]; then
+    # Borrar el archivo
+    rm "$FILE"
+fi

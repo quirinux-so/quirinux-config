@@ -1,0 +1,122 @@
+#!/bin/bash
+
+# CONFIGURACIONES PARA TODA ACTUALIZACIÓN
+
+cp -r -f /tmp/quirinux-config/etc/security/. /etc/security/
+cp -r -f /tmp/quirinux-config/etc/modprobe.d/. /etc/modprobe.d/
+cp -r -f /tmp/quirinux-config/etc/sudoers.d/. /etc/sudoers.d/
+cp -r -f /tmp/quirinux-config/etc/xdg/. /etc/xdg/
+cp -r -f /tmp/quirinux-config/etc/default/. /etc/default/
+
+cp -r -f /tmp/quirinux-config/boot/. /boot/
+cp -r -f /tmp/quirinux-config/usr/local/bin/. /usr/local/bin/
+cp -r -f /tmp/quirinux-config/usr/share/. /usr/share/
+
+cp -f /tmp/quirinux-config/etc/locale.gen /etc/locale.gen
+cp -f /tmp/quirinux-config/etc/modules /etc/modules
+cp -f /tmp/quirinux-config/etc/os-release /etc/os-release
+cp -f /tmp/quirinux-config/etc/sysctl.conf /etc/sysctl.conf
+
+# Elimina el archivo 10-installer si existe
+if [ -e "/etc/sudoers.d/10-installer" ]; then
+    rm "/etc/sudoers.d/10-installer"
+fi
+
+
+# Actualiza el gestor de arranque
+update-grub
+update-grub2
+
+# CONFIGURACIONES SOLO PARA MASTER DE ISO
+if [ -d /home/quirinux2/ ]; then
+    # Copia archivos predeterminados
+    cp -r -f /tmp/quirinux-config/etc/. /etc/
+    SOURCE_FILE="/etc/skel/."
+
+    # Itera sobre cada directorio en /home
+    for user_home in /home/*; do
+        if [ -d "$user_home" ]; then
+            user=$(basename "$user_home")
+            # Copia archivos predeterminados y ajusta permisos
+            cp -R -f "$SOURCE_FILE" "$user_home/"
+            chown -R "$user:$user" "$user_home"
+            
+            # Asegura la propiedad de la carpeta del usuario
+            chown "$user:$user" "$user_home"
+            echo "Propietario de la carpeta $user_home ajustado a $user."
+        fi
+    done
+
+    # Gestión de bookmarks
+    SKEL_BOOKMARKS="/etc/skel/.config/gtk-3.0/bookmarks"
+    if [[ -f "$SKEL_BOOKMARKS" ]]; then
+        rm -f "$SKEL_BOOKMARKS"
+        echo "Archivo $SKEL_BOOKMARKS eliminado de /etc/skel."
+    fi
+
+    for user_dir in /home/*; do
+        if [[ -d "$user_dir" ]]; then
+            user=$(basename "$user_dir")
+            user_bookmarks="$user_dir/.config/gtk-3.0/bookmarks"
+
+            if [[ -f "$user_bookmarks" ]]; then
+                rm -f "$user_bookmarks"
+                echo "Archivo bookmarks eliminado en $user_dir."
+            fi
+        fi
+    done
+
+    BOOKMARKS=(
+        "file:///Descargas"
+        "file:///Documentos"
+        "file:///Música"
+        "file:///Imágenes"
+        "file:///Vídeos"
+    )
+
+    for user_dir in /home/*; do
+        if [[ -d "$user_dir" ]]; then
+            user=$(basename "$user_dir")
+            target_dir="$user_dir/.config/gtk-3.0"
+            target_file="$target_dir/bookmarks"
+            mkdir -p "$target_dir"
+            > "$target_file"
+            for path in "${BOOKMARKS[@]}"; do
+                echo "file://$user_dir${path:7}" >> "$target_file"
+            done
+            chown "$user:$user" "$target_file"
+            echo "Archivo bookmarks creado en $target_dir para el usuario $user."
+        fi
+    done
+
+    echo "Creación de bookmarks completada."
+fi
+
+# Ajusta permisos en /etc/xdg/
+find /etc/xdg/ -type d -exec chmod 755 {} \;
+find /etc/xdg/ -type f -exec chmod 644 {} \;
+
+# Elimina configuraciones no deseadas
+for user_dir in /home/*; do
+    if [ -d "$user_dir/.config/audacity" ]; then
+        rm -rf "$user_dir/.config/audacity"
+        echo "Eliminando $user_dir/.config/audacity"
+    fi
+done
+
+if [ -d "/etc/skel/.config/audacity" ]; then
+    rm -rf "/etc/skel/.config/audacity"
+    echo "Eliminando /etc/skel/.config/audacity"
+fi
+
+# Crea enlaces simbólicos
+if [ ! -L /usr/local/bin/neofetch ]; then
+    ln -s /usr/local/bin/screenfetch /usr/local/bin/neofetch
+fi
+
+if [ ! -L /usr/local/bin/fastfetch ]; then
+    ln -s /usr/local/bin/screenfetch /usr/local/bin/fastfetch
+fi
+
+# Actualiza initramfs
+update-initramfs -u

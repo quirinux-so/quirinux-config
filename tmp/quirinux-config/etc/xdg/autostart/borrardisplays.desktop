@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=borrardisplays
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Borrar displays.xml
+Comment=Elimina el archivo displays.xml al inicio de sesión

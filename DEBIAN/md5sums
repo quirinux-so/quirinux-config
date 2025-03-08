@@ -1,0 +1,1194 @@
+d41d8cd98f00b204e9800998ecf8427e  -
+958ac74ed33d81ed1295ac5e1b8e0420 opt/quirinuxconfig/etc/conky/conky.conf
+f2b563f6313c5085dbd33a95e3cab98e opt/quirinuxconfig/etc/default/grub
+74dbdfa8154afb0ace9b498b8254c228 opt/quirinuxconfig/etc/modprobe.d/dslr-webcam.conf
+a1185f3e99220375f98e43be2ac3e7b3 opt/quirinuxconfig/etc/modules
+493a787facb8086adf68a69278c7c72b opt/quirinuxconfig/etc/network/interfaces
+b49486d027284a758f9bbc1b61c8bc27 opt/quirinuxconfig/etc/security/limits.conf
+22bfb8c1dd94b5f3813a2b25da67463f opt/quirinuxconfig/etc/skel/.bash_logout
+ee35a240758f374832e809ae0ea4883a opt/quirinuxconfig/etc/skel/.bashrc
+2223fc1fb8421c4b5b53b8056c83fb1f opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/action-history
+1cddd98a3068fd5ca7e6bd306dcbe51a opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/colorrc
+5e42c865c391f4a74d1a24016d6d09dc opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/contextrc
+a8f359261a492e99b94eb713531c5445 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/controllerrc
+0b4c763e929b60f2f441fbbd8257f652 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/dockrc
+fd74982d1fca5acaf9072c2be7f0aadd opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/internal-data/custom.ggr
+02b89b5106ba2ecacb03362e82f8d47b opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/menurc
+c19ba82084d9d2788d72a534b4d6c8fe opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/parasiterc
+0c8bdd7c3869437606018167832cd79a opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/pluginrc
+8bd986fd70dc1d2792179b8ca8b9adae opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/sessionrc
+a099c2052d5b1d8e697922c852043506 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tags.xml
+b75db502f90793e2362ec98468269fd1 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/templaterc
+ccad23591b12a592c314446a669ec508 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/themerc
+33dc17ebd477007f65cf8736636e743a opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-airbrush-tool
+9084df9242839e11f03bf02c826fe586 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-align-tool
+0d988f4936800c8dfcabe6cce95a5771 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-brightness-contrast-tool
+ece5c689c3db090f44bab482e86f6976 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-bucket-fill-tool
+15ec990fefe33c623f697129549f414a opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-by-color-select-tool
+0fa7d248c7ca53fc16f1220af9c94814 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-cage-tool
+cdcc74c56c7370ab7c1d782afbf5abf2 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-clone-tool
+ef87450a907e12c801dfa376b6f21eff opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-color-picker-tool
+826dac93f46c3a8af667dc198dc4f193 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-convolve-tool
+169707c77528b615cc3d09c207217624 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-crop-tool
+f384d4609884c819af114a80d0cefe2e opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-curves-tool
+47a7b2bfe38f46b91c1e591541b60545 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-dodge-burn-tool
+cbf1994e30f76065689da1a66133eae7 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-ellipse-select-tool
+63514dc17de20fb983750c13410be2dc opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-eraser-tool
+51e75fe6378128e7a79bc9e969706448 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-flip-tool
+f02669db2f24feef92fa62a95bbca4ed opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-foreground-select-tool
+a122650326d3b73e86a107ccf6ceec58 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-free-select-tool
+0714221193164a97276b390fda130ae5 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-fuzzy-select-tool
+70ef4f4e76c7ab9f5dec67ad1a785f9d opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-gegl-tool
+856dcbddf8175348f5b16e8bbcf9ebd8 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-gradient-tool
+2be2763965d01881b7e3ee1773d7ffae opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-handle-transform-tool
+bd8cb12dab17321902bbef0999d3b04b opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-heal-tool
+713562d368c8c484b8ce10bb08f40723 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-ink-tool
+bfebf47319bd45aaf77b139c20b56de5 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-iscissors-tool
+92e3cb549f42755fc504beade5648342 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-levels-tool
+a8ab5f6a7055dde404c75e500b57e51e opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-measure-tool
+e466837efd2ad4fff8a03edfe1125706 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-move-tool
+03372991199bee3f92c7d9f5dabd4858 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-mypaint-brush-tool
+a90ed147bc16f7072405c7862ee7a969 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-offset-tool
+f5d7242d0fcb31a332dd9367829f4108 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-operation-tool
+a0c5b597880d6fa5f1141c98bc42c700 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-paintbrush-tool
+8fce70ae7eb9688afcdf1b6ed836d22d opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-pencil-tool
+66568cb9f444c813ed38f65c8ad984c8 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-perspective-clone-tool
+93e64a54f0654fc29d31f373c495b697 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-perspective-tool
+43623bad4af42220c460db6de3ea77d9 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-rect-select-tool
+c74f9818b1bc7e09add2d762cd3e28be opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-rotate-tool
+4e8ac6e5775548460d3f0264d60aba8b opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-scale-tool
+eb3c41461d2ceb7b19e1b2adad02e44d opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-shear-tool
+25254763f5f1218cd5fb67bca04d5325 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-smudge-tool
+b193bf21164aace0aba4c755ce345bdb opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-text-tool
+85e7965b3dc08d87a000843eb2de5706 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-threshold-tool
+8bbf25fc03dc8bff05a83b42c091a9f9 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-transform-3d-tool
+e2bcf208798c36ec387058f12588438d opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-unified-transform-tool
+75838947d5af69da1b1bf6a49f67ac54 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-vector-tool
+9c9ee340c1472954700ce2d8a9554a36 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-warp-tool
+171cac705d809ef8e7c54067ded3f1a3 opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/tool-options/gimp-zoom-tool
+333bc67f9998a6cad263f5727d75febe opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/toolrc
+72cc4c5d9da9f871d851c68717dc636f opt/quirinuxconfig/etc/skel/.config/.config/GIMP/2.10/unitrc
+6dd5df2433c778626e5219b5924a7d3c opt/quirinuxconfig/etc/skel/.config/.config/GIMP/devicerc
+24d181c3a663386fad51814915e38274 opt/quirinuxconfig/etc/skel/.config/Cyan/Cyan.conf
+ee3a5c06f4e2d0bb139dce1efd8afcf5 opt/quirinuxconfig/etc/skel/.config/Cyan/icc/cmyk.icc
+b7973bc38e5dddf3550a68da7bbf64f5 opt/quirinuxconfig/etc/skel/.config/Cyan/icc/gray.icc
+21917fd49c7888c5a238f43b622611ec opt/quirinuxconfig/etc/skel/.config/Cyan/icc/rgb.icc
+b69e5c86f97a41d277178a99e901e88f opt/quirinuxconfig/etc/skel/.config/DisplayCAL/DisplayCAL.ini
+e211832aa9a67e22610cf227c74f35cf opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/action-history
+8c8e13f1e3f89dab9cca13d147450839 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/colorrc
+02a0a97a0c6280d8ba9881654f56d43e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/contextrc
+26accc4aa8f8201bda5722a05ef3d300 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/controllerrc
+10d0d39712b1224be4b1a4db405445e1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/devicerc
+0b4c763e929b60f2f441fbbd8257f652 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/dockrc
+4d7d7838a2cdbe3040a58789a26ff560 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpBrightnessContrastConfig.settings
+c2f0d3acd73da4048f12e36a2bc37cd7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpGegl-gegl-dropshadow-config.settings
+c82fe541b8307646b0c7c02c00920c4e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpGegl-gegl-gaussian-blur-config.settings
+6772be598b1d7ae11c4383651b86b9a1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpGegl-gegl-long-shadow-config.settings
+c01733dc76df3c3421c52679694f8bab opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpGegl-gegl-unsharp-mask-config.settings
+2301450570d53b19e5c5bf1842231959 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpGegl-gimp-colorize-config.settings
+5757bf2290e340b82494fc6457768f9a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/filters/GimpLevelsConfig.settings
+58535150be56a524f5c3ec245e3fa261 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/gimprc
+bb21cfd9a6f911e181b8c7f5c1a0625d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/gimprc~
+834a932f5968ce5a8d480e074501b5bd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-business-card.svg
+bbbe03d411c66744c5618bcca4f61205 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-center.svg
+b28d4d03db6b0ca394de8b11fdee6351 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-alpha.svg
+6dc4038cef91b4a2cbfc6a9d26d04787 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-blue.svg
+be7a0f1e9828ee7a4f39f7abcc626b6c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-gray.svg
+0044e4ea2ee35a459296267e6ea6352f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-green.svg
+58dfbe05b19af032e6823cb971a7935e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-indexed.svg
+7b8656a0604e61eecce1606d83f6f8e6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel-red.svg
+3cfbdf23994dd086a35cb65925e4ad6e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channel.svg
+895510d6e5e8713e14a16726867c3fca opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-channels.svg
+92de83588c8ae24e6a15ab043fc2c4a0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-char-picker.svg
+39d497769a5361519eba5dda9921a7ca opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-color-space-linear.svg
+b7df193951d85a9471fb880bdbd71881 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-color-space-non-linear.svg
+b7df193951d85a9471fb880bdbd71881 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-color-space-perceptual.svg
+f55bea8d9877df8a9e08e46b1c5d3d73 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-colormap.svg
+0c28d5fcab1e809eca90c0436f49cfc0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-controller-keyboard.svg
+3c1b78ee1e5f8fa3b1801b409556d96b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-controller-linux-input.svg
+9157541416240e6a1f874f800de9bb11 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-controller-midi.svg
+76701575992da6c01e03515d1b362818 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-controller-wheel.svg
+23c1809a1d68c16d05f9600671b27286 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-controller.svg
+44cb20e9b641e47910019e0a0063bef3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-cursor.svg
+e70f3eab3c446492bd98dd4194a07dd4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-device-status.svg
+b3f096bea72daef16df361ac28271de4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-clip-warning.svg
+70b2f521f8b0b654faab83e76233c712 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-colorblind.svg
+da02a867fa08cc34bc9de73dbb20f078 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-contrast.svg
+e6f360a767fd63bcfce263b4ac892e5d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-gamma.svg
+c87fb731a420f00a1195676d0edaebb5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-lcms.svg
+6140d15b97cce3ec67b50de966aa7633 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter-proof.svg
+0b850e7b4ea77440978de03f3ca128d8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display-filter.svg
+8e5b917a1c2f63767379b8d6b8a032b6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-display.svg
+14980111bccef14322381ca6be4faae8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-dynamics.svg
+ab2a99d4c02250455a9d7dda730d2876 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-error.svg
+0767afe2127e396cc6d5aad942f9f525 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-floating-selection.svg
+8c3d59a8c8f0aa4cc819417098051bfd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-gegl.svg
+df26df1004e8e04bab99e81083144ffb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-grid.svg
+a9ac4baadc3ef989c17252e13d2d3ff4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-histogram.svg
+746cd8169a1ec30a89e32e70d6a5d100 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-image.svg
+cb2453608ed4ddbf447e9d0dcd8eaa2e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-images.svg
+a7c7633cce4872413a12417c5493c3b3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-info.svg
+fe81c0612c774a41c65e0a0af549c9a8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-landscape.svg
+04bab62fd60e8bbc1e5060bef2218bca opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-layer-mask.svg
+f5f634f8f88deee491b5307195dbe04e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-layer.svg
+af503099220611143a3053b8b3f1a407 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-layers.svg
+7d98083877c71be7bf67fbcd49e9e0f3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-letter-spacing.svg
+fcc5bc61b744f6609d4092c7bc71b4db opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-line-spacing.svg
+b526a2cb1a9a96cd282114ebe5320f42 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-move-to-screen.svg
+c919388fd9fc94c2d5fa25cfd1042056 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-navigation.svg
+be45ca642dcd8c77b3d82bd7d01492b3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-path.svg
+12e370563f5884f8b7c29d8b1a4a693e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-paths.svg
+a534836d1867a22fcc48e9c9a8aab6a6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-portrait.svg
+b7f9f87d1af1312827ab93a674fa95d5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-color-management.svg
+2ed8584e110a939005aca9f354e8a835 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-controllers.svg
+f9b640c50ee55213a6c1d240c2f5a2e6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-default-comment.svg
+755f9dd1df9ba044fc4d68a516576efb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-default-grid.svg
+56a7dcc0f873960d7cd508183bc14eb1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-display.svg
+d6ce725413d2bbb972142102a081c235 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-brushes.svg
+7b9d093364e3e1b35fe0f22a9ae10011 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-dynamics.svg
+59b2048faa919dcc4845cdebe77887c9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-environ.svg
+41b6a8fc7a612115f316e28a08c2dfc5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-fonts.svg
+c979203f09da674bbb1885a8f20ce387 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-gradients.svg
+367c8970a15a91a4a6238bbd47eeb490 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-icon-themes.svg
+59e98d45bf9f721045090fbfc561280b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-interp.svg
+24cbab8c0079224d242b5be3bbe7b426 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-modules.svg
+288d40b0140616e63051e362616155fd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-mypaint-brushes.svg
+645187238205a3c0a562ac42deb1c997 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-palettes.svg
+a5296e030bef91adb0e04d901ea0bd96 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-patterns.svg
+ba313b3be9577c03a518ce10bd62b4d7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-plug-ins.svg
+67de2130e172c5e8c30a30f3eb3aae14 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-scripts.svg
+d773b842026549a674cf3599787067ac opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-themes.svg
+41eef8aed32fcef18779e15dc008deec opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-tool-plug-ins.svg
+c51397f91956af648bbfe7a176093145 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-tool-presets.svg
+a9655dcf6c290a13e9e0c3938e3e0c1c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders-tools.svg
+ee969834937efa16f88e3c9375d4cd3d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-folders.svg
+4fc7a6f861d89db7c03184d389be0e4b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-help-system.svg
+8b9082fb1e64c1c5ae532da7d4ce8f4e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-icon-theme.svg
+9bf007db58eae7052bfd383f9a9779bc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-image-title.svg
+0ca5289fb62fdc5094c6d2fd565971cf opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-image-windows-appearance.svg
+4aeb3eddbb5e4bcce6dcb0862de16603 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-image-windows-snapping.svg
+30c3a4cd058d543cec0765e837741381 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-image-windows.svg
+3d4d143b20311f36c6b865fd3f9a3298 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-import-export.svg
+b4b23e2b28fb97de7254a786edbbca18 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-input-devices.svg
+4341f9f23fb045c6989d7f3e33a7af6f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-interface.svg
+24f650b9a9bfc7880a239fd775886d25 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-new-image.svg
+e1ed9f6d27d9665228601d82f80ffd95 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-playground.svg
+d86ad3d06a3d002f570979e2a6347dcf opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-session.svg
+6bf7fd7230768a4372c3d6ed4eed0900 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-system-resources.svg
+288d5102a99dad4ce0b02d70da614fab opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-theme.svg
+0a03bc910b8370a63b25d27fa447480d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-tool-options.svg
+eebae61afd08a5ca5cdd373edffb02ac opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-toolbox.svg
+7105c40b6483f8c9177d9a051ddd9594 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-prefs-window-management.svg
+05a0fe048ddfd239047af6543136db81 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-question.svg
+05f584bd60f3622747f3e4f5f0f77bcb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-reset.svg
+0529a97ce59a5d34c73394caa2f0a2f8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-resize.svg
+cbaac1b57b41ae97d69b2b1f021f8976 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-sample-point.svg
+9e5f9a60de97081f4bbef7d0706ff0fc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-scale.svg
+a2706bd8f16b9189966b963985851e6f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-selection.svg
+9640599d3160979160458dcefceccc9a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-smartphone.svg
+ff48e4f330e5e0e47ba99cce2bab0a0a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-symmetry.svg
+536b4f34463ab361f0f6f288669bf0a3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-template.svg
+b1004245499aefdb7d35e39bff532b87 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-text-layer.svg
+ec3a63853ff67471ec8d4596e9617269 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-web.svg
+b6f31e54ab61a181463a93393f3443f7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-desaturate.svg
+1bcd00d9da7dd35b6f769f959f652735 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-exposure.svg
+2580d4b53e55423838bafd72faa94385 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-handle-transform.svg
+2e0b63a52f2e0b9cb1ea4c2bb47185e4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-iscissors.svg
+d2f308ab391c8d27ca515553b71707e8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-offset.svg
+495390fc798eea3d6b4fdd388cd66d13 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-options.svg
+5778fbe1dc0442139b5ef6f7a7f884f1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-preset.svg
+33333375eac294690c6f89fd2891612c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-seamless-clone.svg
+b3d76350baffdeb802722d74b1bc4cdb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-shadows-highlights.svg
+1494a8621223b7ffa7a0c108ef37a74c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tool-warp.svg
+d6fb1c46a64a4467175b1910ca712f3a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-tools.svg
+b9c17a2ab93c441f909f7582786caeb9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-transparency.svg
+288385ad789bc2c7c05d4bc5d0c94905 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-undo-history.svg
+8086180978fdca7870087f6d234f3d30 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-user-manual.svg
+550a6dd8843069c50ab2cede02f6ec28 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-video.svg
+43278046ad33ef3cfdb5395b566897ad opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-warning.svg
+fd9420b8095e5bb9007124cdffbed288 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gimp-wilber.svg
+d6b46975b544586abf63113a50f7286a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/gtk-select-color.svg
+a93ac33e4da517b0c8b7f079752603d9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/maybe/gimp-tool-path.svg
+702009fcb2b3f311c9cb5d7ec3bae1e0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/maybe/gimp-tool-threshold.svg
+215ccb9182c50529820ae3e1710f52e3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/maybe/gimp-tool-unified-transform.svg
+92e429165160adde4d85c8ae35e985da opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/media-floppy.svg
+0fcdafe8341fc8ea39b92cbb9e38ed42 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/apps/media-optical.svg
+d2e9cdc54e6959fb615f6f202f472d8b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/brush-tool18.png
+996286317209c348bf0e3a4d853b015a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-airbrush.png
+6ff7c36ad7b29075e34d4e1838c9c456 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-align.png
+ac41c870e34639d53e9eca8f1b559456 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-blur.png
+2078cd550c829ba5bf307d01d9ea6a09 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-brightness-contrast.png
+a64db68d1ca4e7c32bb992b2b6746eef opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-bucket-fill.png
+fd4f5cb4fdaa4b7493cd851e5c466499 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-by-color-select.png
+5b5a40f5e49fb633813b92f3782b1239 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-cage.png
+0a523ff63bb32fc2d56355def1ef5c32 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-clone.png
+cf17986ffca0b18274a426d80c66e979 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-color-balance.png
+cfeea506d10acfcb726c90baef95be09 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-color-picker.png
+c8514ad7c77fd05bf6e88f42ab87f2c9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-colorize.png
+882a49c061f15c0faeb0e6e70f134ed8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-crop.png
+b86b1c47c71b4bdc40ec19d397afa349 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-curves.png
+3318c151353cfc0cc10c38ba02c0988c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-dodge.png
+626b9afe162bd7924c81d45b9fd6860b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-ellipse-select.png
+2dadade5dbe73d73397fc6ca29943a78 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-eraser.png
+4ce69a9415cda0c33dc995ce61368139 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-flip.png
+2887d658b7203e674ee19af961bbf82c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-foreground-select.png
+0b368a7ddc90dc68f2d45c38ac7d046c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-free-select.png
+46d196cd496c8f1f4ba1d5c12311f05e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-fuzzy-select.png
+9b4e25f31adafa64e19506351e8e3573 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-gradient.png
+9612bf4a9821d0a19966c932743c40e4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-heal.png
+7db4b760d2f55468e2e5071a00071749 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-hue-saturation.png
+5a6fcb8244ea77ed16b360c344d9d26f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-ink.png
+72e122e619b4b03ea4080450b1ea9ea8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-levels.png
+58839727705324ac100569374ccc5e5a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-measure.png
+2262ec51976abbd65b0d529ddc602a58 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-move.png
+90031207384824e44df6b19a7517eab0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-mypaint-brush-2.png
+189ebc4ce3d872126b66bc739533e61d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-mypaint-brush-3.png
+1ba8e6a4e8f6a8495db33efc3739b4b8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-mypaint-brush-or.png
+189ebc4ce3d872126b66bc739533e61d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-mypaint-brush.png
+9abee90fea6936272e468871038d1264 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-n-point-deformation.png
+e728a7f9d5dfb8ce1627f6c5c7d0afc0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-paintbrush.png
+e4dccc80a90caee9447d417ccf56052a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-path-2.png
+a388e627d9321be36bf7793e98f99bfc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-path-3.png
+36dfc561610af7abb100e2e35dd96c59 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-path-or.png
+a388e627d9321be36bf7793e98f99bfc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-path.png
+8c666c3c5bb3e864aaeede92605fd2af opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-pencil.png
+def03f78395169f54dab90c5e583c27b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-perspective-clone.png
+6f00f599017c4fbb432321badf45044e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-perspective.png
+4535081ea39d97c037dd8b5f1223c92d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-posterize.png
+ebb33ba2b129dccb1e17e681b7197894 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-rect-select.png
+753fe0bafba44e828e3c56eb6f79e6ea opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-rotate.png
+ea6bfc4aa69149628b1c0b7a3b6a803d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-scale.png
+99d116020858719ce18b85e578624ac5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-shear.png
+28a84734fa11154d436622d98cfd8a50 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-smudge.png
+daab299225584309fd135b623ab476f2 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-text.png
+ddd38d5f66e5129ec3d623438c186992 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-threshold.png
+48c2feec6a63053ab5d7f7b87f9d2cf4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-unified-transform.png
+61bbe611dc8f54b542e7b72fecb6b798 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/gimp-tool-zoom.png
+409f6d79f12a1278574e5363e496164b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/magnetic-lasso-tool.png
+defa679b4f0e21b95eba643d134ccce5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/22x22/tools/stock-tool-measure-22.png
+e9dc0106d654e7c2343e1752312975d7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/index.theme
+ef896d8c2528aa3aa1c8ce8403e13517 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/dialog-information.svg
+80ab0d928eeac188978b140a1e36720b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-new.svg
+227bf0ddafe7a9caec419ad304a7587e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-open-recent.svg
+eb1ab2109b9843900aa0cfde45367421 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-open.svg
+5d9d12477a12625c9e35d6b1ed3abcab opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-print.svg
+8b70f291d933c1357bf8689b598d468d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-revert.svg
+9a23bf499e6352d6d7f86da6f2da59b1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-save-as.svg
+8d1b09122e60d8de8dfb3de1a5856546 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/document-save.svg
+ca67b0408b166beccd6c56c0cb15c5ec opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-clear.svg
+9bafa5e825598e5645f21519dfb30d0b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-copy.svg
+346a88747d771b95a3cf12ea0c8f42dd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-cut.svg
+4fc39f6cdfb1871b5451b6f661b51059 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-delete.svg
+ef6fa66c53751299a8e4304561ee8daa opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-paste.svg
+c1573f658e6b30289bf58ed3d2d4fca9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-redo.svg
+566e8172d99823c1e2b9f77329be17fb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/edit-undo.svg
+a0ed5ae0d2d3bb49bdb0ce4ba482774c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/folder-new.svg
+5d3de19dc6aa1a53f64781d726665ad8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/folder.svg
+1e9aa922fda51e9408323c2d8fea19ec opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/format-indent-more.svg
+bf786718615cf3eb94e27dcdf4bbb77b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/format-justify-center.svg
+e0ee5723d905085b5107a9b2380e21f0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/format-justify-fill.svg
+8523795ed5120ceac89afaf4797539ce opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/format-justify-left.svg
+6dd21d9cb015ac14ab2f17a6f4d96b2d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/format-justify-right.svg
+915c7ed0241c4613bff0c2fd49327af5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-anchor.svg
+d366bc59c5abaca8d257acc67ec71a21 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-attach.svg
+fcd016843726bc3eef01a4de531a137e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-business-card.svg
+1a235820217cfedb9e774ac72998a06d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-cap-butt.svg
+6a6b9e47ea553b63e752fd12f07eb5a7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-cap-round.svg
+d55c8e47eadd69e82dedea24971601f8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-cap-square.svg
+7191bb8277ec5622ac0116045edbad91 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-center.svg
+71ac922ead0db707f75beaf24f2936bc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-alpha.svg
+ff4fba7ce46c91caebfc7aa1e72ab680 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-blue.svg
+d7752a53110b0ad33b94edb0cd8fa8dc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-gray.svg
+788f1def4f99b326c9d24f952cc8d1fe opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-green.svg
+30169efff8a0232c063d628e12951f5a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-indexed.svg
+2d4ea2596fc5fe9b268970bc6354312f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel-red.svg
+9bd7b9daf80f58848bff6ff87cd681f0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channel.svg
+94e0e318eaa3c9ed95f97ee720e9da35 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-channels.svg
+682f0b2da3c2d92dcb7a62b334df5618 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-char-picker.svg
+14220b6c059a4c740c3ff6a9a6406142 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-clipboard.svg
+23d87ea576e42b6781744ef8aefbdb19 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-close-all.svg
+a44bf6e700f1ece6fe31e49985b31cac opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-close.svg
+8080088da67d354d7d67d35240a917bc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-cmyk.svg
+0de941055a0698d93a4849789f21f8d4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-pick-from-screen.svg
+1d908456960daef6ff8e6c8938942875 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-picker-black.svg
+d93ffe9c9ab3efa5a24d95c50f5a9b67 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-picker-gray.svg
+77f7ec9ae598362e43eb447718df30c9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-picker-white.svg
+a31fd0090e6fc275e0587c3db3b3b2f9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-space-linear.svg
+f51d3f47771f15e8af00d07c8a20feb7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-space-non-linear.svg
+f51d3f47771f15e8af00d07c8a20feb7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-space-perceptual.svg
+05e834e927d533f126ce076f2237a25f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-triangle.svg
+f4b362e024e5ac082386b0c4e4d64e84 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-color-water.svg
+89c1a5b8c7f47d3dd489055c803447bb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-colormap.svg
+56983a067ae20af25929f8a70b8fa42e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-controller-keyboard.svg
+0d90d3944cedba5d8a7ecbce06a788b4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-controller-linux-input.svg
+c0b1bd359509b1ec79728bde07801d21 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-controller-midi.svg
+91459fff0e8416557f02f503c864ba01 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-controller-wheel.svg
+3ebb938a60e0ef97b3555f31a266035c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-controller.svg
+c4974ba1abf8c2e84d3feeb5cbaaf88f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-convert-grayscale.svg
+9fbe64b78c7d9cd4ec6e42a5ad1492a3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-convert-indexed.svg
+515f6d54f47fa467fa96b7521f28f741 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-convert-rgb.svg
+92f6f0aa0073d2a1eecbf6d325d7f902 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-cursor.svg
+69fd5eee37d7491e6eb48f6e095c9336 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-curve-free.svg
+ce786652e3ecda4b532442cf1cfeef56 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-curve-point-corner.svg
+db55a9760f0ffcfb6ee4ec21d765b86d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-curve-point-smooth.svg
+7e959b8c2cae1e16a8382fe26fddc780 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-curve-smooth.svg
+9d6a8545cb656b1cd2a55513221ab896 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-dashboard.svg
+1f65356ad5ee2bd2a3bc0490aa052c1d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-default-colors.svg
+bd4f79dab3fce5c0f1afd886048c2f0a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-detach.svg
+7956e52a72020f61a17afcc2246a5be9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-device-status.svg
+f00830475e24741234e944f0e349eeed opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-clip-warning.svg
+72ab23d50dd76fec3d36d022a4271c48 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-colorblind.svg
+05fd2c9e6117687c43047fe2ada7f461 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-contrast.svg
+10dea64a828f2902ca7d0df12b7d81af opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-gamma.svg
+1ca77ebe0017c4fcde3e7a09b6139036 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-lcms.svg
+12a90dc58a2d5a35e32518080dcd01a9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter-proof.svg
+43b2380883a2c5e588e815023233b51f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display-filter.svg
+be47e857ee2da0942cd33ed1a2462313 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-display.svg
+23c00ab630681eb690042c2ccac653ba opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-duplicate.svg
+78b045ac9150afef9cc8f6731cdf6355 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-dynamics.svg
+b6c6e1d251515b16b3bbebcdf7174983 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-error.svg
+1758cb20869f8b02042a956b7ed28989 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-file-manager.svg
+32999f452a0ac29d57bc0a82eeb0f24a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-flip-horizontal.svg
+b2fc0f6129de86ac665bda52ab7b40ee opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-flip-vertical.svg
+9980a24926209490b7d0f749a9593f1b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-floating-selection.svg
+684584d82d4db6ebd4bf1178607416ad opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gegl.svg
+7cb47f7e8cf8110b7d50370e84674e78 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-bilinear.svg
+11917bf0b175b5c37f35f3e1b302cf56 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-conical-asymmetric.svg
+3caea83bbbb28add7d3c81abc5140d7c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-conical-symmetric.svg
+05330526ce84c3c4dc9151ae84f9ad11 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-linear.svg
+936d1766daf8fd72cf695dd066c5711d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-radial.svg
+e1d36d7cb0e5fa850c07e93f191b549c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-shapeburst-angular.svg
+1f3fa47a8e27adc34decc4e3aec7f594 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-shapeburst-dimpled.svg
+90051d4d1db58881e3d6647b458f2be6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-shapeburst-spherical.svg
+ab2b593792a6591d349af00c53b11959 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-spiral-anticlockwise.svg
+9c2f73eed6d6434ef2871aacd2ea6855 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-spiral-clockwise.svg
+539616d9911427b1940b62a7689eeaa4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gradient-square.svg
+0ce9adb8d141eecd81c316ab308ae192 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-east.svg
+043ddd610d09bf05f763b1bc6cbb6c99 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-north-east.svg
+44cf568e4fd6803876026f537f7cb29c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-north-west.svg
+594a2e551b8cbb1dfb5d9c2838664489 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-north.svg
+4875e2c2e3d995f2238f0fc845ad486f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-south-east.svg
+bbc7679f1263fd886ab94637d32486b1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-south-west.svg
+6468be120e7755b5b09c63ec3523f5cb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-south.svg
+cdcaf56b23540583626c505da900e5c2 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-gravity-west.svg
+09936c0bf3064474790bfc58e2b1efee opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-grid.svg
+a052b75d86cf3a39de83e92f83485c1f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-group-layer.svg
+64dadd9cf2dec58b3574d33916cb9a69 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-hcenter.svg
+49bc93987aed805afcd9d1462f931b64 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-hchain-broken.svg
+427d86f7057456be455ee6f84e879cf8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-hchain.svg
+366f2154092f78a1707fa6352fad13cf opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-hfill.svg
+1c54cb20c3f4e7150fad1fc16e451fdd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-histogram-linear.svg
+f29ddbf7fb28ceac0bbe22b3d6d86da8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-histogram-logarithmic.svg
+86421f1c4aeb3007c15845c17b006932 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-histogram.svg
+54620bfd685d8fa93a454751dc124bd7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-image-open.svg
+2e6187f326a1027e0233407c0fea33ea opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-image-reload.svg
+ddb824adb349192fdb2ee37056c8ee90 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-image.svg
+50767e7a855d7385f9e2529b6ed78744 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-images.svg
+2c4887b2ce0604436c3630613d8ef2b8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-info.svg
+4405992c4c99b8df4d35a08ef78cca6d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-input-device.svg
+f7ecc16d3315de2674a9f7a8a71d30a8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-invert.svg
+e1b75af6f364bd76251b603ebb5dd0f8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-join-bevel.svg
+b7f477938ee1cd3f9048caa6ae3df2d7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-join-miter.svg
+bc02831f48fcb18acf46dcc01a4e6a5c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-join-round.svg
+dc4fd3c6924b248d1771f4695a78daa1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-landscape.svg
+7a676ecd845a2e5f25c61ab10d3f7659 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-layer-mask.svg
+742152fe19deeaa0ff24a260b77c024a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-layer-to-imagesize.svg
+3bb0d61b43adde92eb1a43a0b1b3f58a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-layer.svg
+6b600bcd4b1aba9b112f84bea05d450f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-layers.svg
+27139ebfa93fcf2cbedea47f7c78a13d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-letter-spacing.svg
+c71db2f5cdf54d4470aa6e25b55ed1a1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-line-spacing.svg
+ffa9057a9c2cb3c959447d9f168d2197 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-linked.svg
+4ed8ed36146e706323a870abac1a2c63 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-list.svg
+2129d25b5b120fa67a08d9e0eb1e491f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-marker.svg
+9032f6c61af52535bb439a2c08b889dc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-menu-left.svg
+4066c742b1a480671d02238190415dc4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-menu-right.svg
+7ee2036043ed4bf165bcd06ae005b842 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-merge-down.svg
+ff77b372214738898f98888ad3949826 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-move-to-screen.svg
+950e54b8b846d655341ad45d49c66337 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-navigation.svg
+b695ff2a0f5a3d0e805cae005afb3641 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-paste-as-new.svg
+ff8f3e04e56704bd28f92334b432a9de opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-paste-into.svg
+c6e495df5625e79a96045ace303a9917 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-path-stroke.svg
+09baa95ebdae843c54ec2c59226c01d0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-path.svg
+241dee44f8f70ddcd81e170bc5f4a33b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-paths.svg
+3727f661d1c62bbae7e7c8a7a3c7b705 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-pattern.svg
+31657e769a8e74438e8be84c0ced9dc9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-plugin.svg
+ff5d15a8463374fdfe2f9f4aa38fc563 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-portrait.svg
+a2722a024da85f44e955e730780cab9b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-color-management.svg
+02afdfda24eee22750c257eb27298492 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-controllers.svg
+df11ea0688ac02557474785388567f57 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-default-comment.svg
+0dd887c32450ae676132c32ff3dd4229 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-default-grid.svg
+c0ffd7c072f694a371cb1c322b84a92b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-display.svg
+8b6ce7c49904816d0655e059de51c6c2 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-brushes.svg
+0d587ff3df4c6cbd5c7ac2d788c84296 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-dynamics.svg
+7c2c7a0aded5ae16de2b0e7d0a5ee9d9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-environ.svg
+ddedcc5fe809d610eb2b4737a5a9be2c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-fonts.svg
+9bea63de2a15879329fc51fcb307140d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-gradients.svg
+037e3042ba41d7cf5636525d773fa9a7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-icon-themes.svg
+e12fa5315221ecce34cdad9f3337c11b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-interp.svg
+fd31b48656fd3d2b3a8988528191fc23 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-modules.svg
+dd3bea40bf8c7ce9520fdceb383a3dda opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-mypaint-brushes.svg
+6f078bf3368028d59bb3e1fe3ffc3ee7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-palettes.svg
+872c6551ec6ac07b0899ce63d9c9d07f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-patterns.svg
+a5f439b6e64de80e562c68825448f51f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-plug-ins.svg
+5cc2b8acdb3e53d926f6e08709df30c6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-scripts.svg
+08b267b5a324132ba7826bf73501e233 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-themes.svg
+6d503ae3d78eb924f691da28e858db28 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-tool-plug-ins.svg
+1f97e5b6fcbf330079eeb7778f792ea3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-tool-presets.svg
+85dbb863bdb655a110da5568990c7a46 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders-tools.svg
+96f5407b0cb073e124b95f6b185982cd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-folders.svg
+f0985ec5af4509e7e17a8be9d102d652 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-help-system.svg
+b5b58a731fa182b42727bc6a9f74659b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-icon-theme.svg
+ab16230cffbc100dc6e59b1165f9f052 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-image-title.svg
+7ee2eb88d5ebcffae8cb918644f76e0c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-image-windows-appearance.svg
+2cdc4ab9fbbfb6fd2fd9ea49fa0b66e1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-image-windows-snapping.svg
+fd59a273eeec48af8eba413b9b3d94ef opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-image-windows.svg
+3d4d143b20311f36c6b865fd3f9a3298 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-import-export.svg
+d3a0692e174da214fc62559e7eef2691 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-input-devices.svg
+468068d29ce6240cb435667e2e8fba1d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-interface.svg
+98a1fead6bf8df8925a2fb002396b0a3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-new-image.svg
+75b5976f0ad0d2d656411546b7c43cd8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-playground.svg
+f38367ae6d5c2e9e6e2be27c8e0235c1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-session.svg
+ecb92eab1ad0f9469abf8958df0343eb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-system-resources.svg
+df7e678371f48b64ff0d2f99cc95ea9d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-theme.svg
+22ebf0a778c6541e49d16818af76c0d0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-tool-options.svg
+c530e5e5f1ac7ffc149667e9e34de6ea opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-toolbox.svg
+2bf85f637f669b24eda6a288fb89ab6b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-prefs-window-management.svg
+45cd6c66c24da3b17f0b9a665f69ed2b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-question.svg
+8a6f6180f5557ae0ef515b9a741d8018 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-quick-mask-off.svg
+32d9a5478bfbfe09414df0defe80aa5b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-quick-mask-on.svg
+05f584bd60f3622747f3e4f5f0f77bcb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-reset.svg
+af8b9f9ba6456ea9b7849098b76eea91 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-reshow-filter.svg
+a967728e0255028858755261f9fa62d3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-resize.svg
+bf59af88963ad25256feec6e8a4bb38b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-rotate-180.svg
+88d12b6d63fa6418fc34152af4bef084 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-rotate-270.svg
+cc6015cb620c9c7669a6e369e67ec366 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-rotate-90.svg
+f4034f4617f7583f44a5f43251c6b070 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-sample-point.svg
+c58671ae12a2b9df7945074e1d090c2d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-scale.svg
+bec96c1ea0dad11b1d428a577f25c516 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-add.svg
+7d1e816960649c2da1df27f989c95f17 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-all.svg
+193971b5d1886e50f2b3e84525c4c2c6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-border.svg
+b673843c6a7ba30a524f454769710925 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-grow.svg
+411b503aa2763c147756476f22c4bdee opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-intersect.svg
+32e5ec1143336bde2a74336685591291 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-none.svg
+e16bc0f3b0e09248be9522f70784ef35 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-replace.svg
+db6c1d2080498a2f8ec360978c8de25c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-shrink.svg
+b92f601d2b1c8d90a1547332be65beaf opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-stroke.svg
+bae694a4b122e83cf00f2fa58d7f1836 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-subtract.svg
+2d7b2b66b27b34604dba3ddb625fc334 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-to-channel.svg
+8b0a67fe5f8d58895ed7ab9c7e578101 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection-to-path.svg
+b90e31fc14f5e42cf0c023fc0acce53a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-selection.svg
+db55a9760f0ffcfb6ee4ec21d765b86d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-shape-circle.svg
+ce786652e3ecda4b532442cf1cfeef56 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-shape-diamond.svg
+366eddb9deaf14ebd7b747678d3f3428 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-shape-square.svg
+f814e95e02277e5f3f2a2f7fbdd66c66 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-shred.svg
+788223602789e38909fcd8bec79b66ca opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-smartphone.svg
+bc7ff545e80f50c04669482213208c7d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-swap-colors.svg
+83fc32ddab301564ac953a4602c649aa opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-symmetry.svg
+c9ec45db4185461b4eebacfada2949d6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-template.svg
+b82fece85bd87e4413acc260a4371c69 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-ltr.svg
+d8615842b0c6d4f57fefafda5c6ae0c0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-rtl.svg
+74a4971e98d8a413c0926fdc65398f38 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-ttb-ltr-upright.svg
+4456094591aefd8fba88376b32b4b48d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-ttb-ltr.svg
+ee6c5810932e337ffe4cb3a18df395ed opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-ttb-rtl-upright.svg
+9ef6e10b0797e8aa44f6d25cc27983a0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-dir-ttb-rtl.svg
+184d3f92c4955dd50bca24bec1d53302 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-text-layer.svg
+f15026b18efefe9bbf08b9e9c90181d5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-toilet-paper.svg
+7bbc4631debe99595379b640324566b7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-tools.svg
+8b4b0fbb57ee05ae566ade56db9a1cae opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-transparency.svg
+274ded596cb02c01520ef9c315012888 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-undo-history.svg
+b214daf435fcfb274298f095638493be opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-user-manual.svg
+624e40da6b632fbc77309a5767f2a93c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-vcenter.svg
+b5cfbaf0caedffdeabce4dece2e63536 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-vchain-broken.svg
+94c917c0155f3ece91bc37bc1975f7c6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-vchain.svg
+3d982c10bd9007f2131cea472f19554f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-vfill.svg
+b452f2c51ef111d0b4d7b7e34664c666 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-video.svg
+4e7d560e2edafe59038c68b1bd1e7182 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-visible.svg
+ef4696bc9492a27c60a8ece3d6baa4b2 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-warning.svg
+d9bed98533dd006cb18bb1eec40e00e9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-web.svg
+bc15beec2416631dd15411a408728844 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-wilber-eek.svg
+d78ab255e8901281f460934164693d4d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-wilber-outline.svg
+f43ce329ee9e08ff3799bb0d2ddd9acd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-wilber.svg
+5c2b9e3e2672f08fa7d17809504d17e6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gimp-zoom-follow-window.svg
+7f1ebcc47667a3f77942cfee4002c3a6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-bottom.svg
+23c5e669252c9bbe581d86811a130cd9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-down.svg
+2f0091688816cc2c71834c66f2c887d8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-first.svg
+4d9b62498118a418b3532ba77d44cea8 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-home.svg
+d9a103eb8207b1de678303cc18aaf088 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-last.svg
+cd13a4a5132d5b369547dd1b3a7ac6bb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-next.svg
+d56fa51b79d2ca0a591b95dbe1104d31 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-previous.svg
+6e1113a3cb7a2cedc0e38986c831f478 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-top.svg
+cffdcbe412e53b3b030f0dcbc77fe21b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/go-up.svg
+c2f0a6782e0b028459db11c79e98d38b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-cancel.svg
+2683c6627a24b1ea6a4b9ee5e1ff26fe opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-edit.svg
+eb8450b5d6637f615c78b802988088ea opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-no.svg
+8d04e97f00e095463a8e84063c0c73fc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-ok.svg
+c9f163a618b18e8a53b80c493d704d1f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-select-color.svg
+33218b029e6e15fdb4dca5cddc4bc3b7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-select-font.svg
+ab952e1ef185c5f46be75bf0a8a41204 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/gtk-yes.svg
+d7b2d6ef83a5c0ab19b168c294bba0f7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/help-about.svg
+67609ab681527d3738b2f5bfbee53d54 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/list-add.svg
+2646a0d4245beff2a30a45bdd503f572 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/list-remove.svg
+b338f1efae6e34429b9be5537323e28e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-floppy.svg
+962f2618a08f3f962d049ebb40583197 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-optical.svg
+a9c5f6dd4481005ffb6573d61c18386c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-playback-pause.svg
+4af4d4bab28125e0c4414b40afbfd6dc opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-playback-start.svg
+58129e1187171f985f85756bbc3f605f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-record.svg
+b1716605ce7f1c8e79fb28b5596e880d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-seek-backward.svg
+35e2e19501a18e686dc8b233eae8214e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-skip-backward.svg
+79a53274d56be7263cc3cb99a85fbe7b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/media-skip-forward.svg
+f1378b9cffe6597100c30e2fa3f7c1fe opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/preferences-system.svg
+32ee6ac0782950e6cf871b6d4cc0d994 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/process-stop.svg
+8852d5b701d1a2443c5c9d7ddef963df opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/system-run.svg
+da3515e0e7be9c7ad74022b6842c996b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/view-fullscreen.svg
+bcd48de5544a97946b009dd1a29a6877 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/view-refresh.svg
+8af6d95ec62dff23354e060e47018461 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/window-close.svg
+2cf5169d20685e06a2d01910651793d0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/window-new.svg
+b989c12142a36e06b92bc545fb5413f7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/zoom-fit-best.svg
+bfd35f96db81bed4a25f38ac20781538 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/zoom-in.svg
+0152ac7975b3cffee46316efeb4b2742 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/zoom-original.svg
+025c395a7c1a66d42c556d7cb7df4ad9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/Gimps/scalable/apps/zoom-out.svg
+03f85584781cd08a5d1a05eeb6013207 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/icons/hicolor/index.theme
+b915efe9bdffe47eb5335d25ab51ffb4 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/internal-data/custom.ggr
+edd62ed150016d9332754c46bd3e8c4e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/lastval_descriptions.txt
+ee81c344fabbdcdbf8960d6eb1bcb67d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/menurc
+c19ba82084d9d2788d72a534b4d6c8fe opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/parasiterc
+da23f0e536a11e198c16995ea096df9b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/plug-ins/layer-via-copy-cut.py
+c99fca1ba7f98f011bb501e162716b69 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/plug-ins/resynthesizer
+ad88861af3870eab148322c8f1c2b27b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/plug-ins/resynthesizer_gui
+9cbd752db78856046552367be8659ac6 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/pluginrc
+eb1c0e21371ba91794146d184707d714 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/profilerc
+0808dafc3cbba9460587f8294b6d9bda opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/sessionrc
+f1aa5ab65c3fa042cfabfd564e80826e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tags.xml
+20ba95bffca7ea660ee08aec9d1ca256 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/templaterc
+752e86b98f08d79a6effbd2986f1b7c1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/themerc
+f5e4197f78a724136a15cb311f45c08f opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-airbrush-tool
+9084df9242839e11f03bf02c826fe586 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-align-tool
+0d988f4936800c8dfcabe6cce95a5771 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-brightness-contrast-tool
+6591c817bf3f8d53be5aab633fcf1126 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-bucket-fill-tool
+15ec990fefe33c623f697129549f414a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-by-color-select-tool
+0fa7d248c7ca53fc16f1220af9c94814 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-cage-tool
+692f799c4552f809717f7e7275be6bee opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-clone-tool
+2a23110a5b2ecd621a12b230ae767afd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-color-picker-tool
+a9f2360d64cdca99b92a787c1109ea4a opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-convolve-tool
+dc7c60d7676ed6b69e15d8d670803fdd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-crop-tool
+f384d4609884c819af114a80d0cefe2e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-curves-tool
+b1dce85903641da193fd434922ba0b69 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-dodge-burn-tool
+f8970c431dca5fa0799d47412a94102b opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-ellipse-select-tool
+3dca54d3e568e565ef5a41c0b724869e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-eraser-tool
+51e75fe6378128e7a79bc9e969706448 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-flip-tool
+242c741cbb6ea26d4c0a6b800d3c35f9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-foreground-select-tool
+a122650326d3b73e86a107ccf6ceec58 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-free-select-tool
+46e74a7d2abdb50d8ff54798ea769b81 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-fuzzy-select-tool
+70ef4f4e76c7ab9f5dec67ad1a785f9d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-gegl-tool
+914bd55acffaef7863e9e58e82d7ceb5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-gradient-tool
+2be2763965d01881b7e3ee1773d7ffae opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-handle-transform-tool
+dda6d11f34bb2da3c72b03a266595d6c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-heal-tool
+045f63aeb87fdba17ce86d66253ff3f0 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-ink-tool
+bfebf47319bd45aaf77b139c20b56de5 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-iscissors-tool
+29461fd00edc11b4ac642890c203edcb opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-levels-tool
+a8ab5f6a7055dde404c75e500b57e51e opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-measure-tool
+d37c7c35976cab2b0b87449715630b03 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-move-tool
+52338f584a702c53205fa79a205ced82 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-mypaint-brush-tool
+dff33eead42b45c5e8316dd9df258724 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-n-point-deformation-tool
+a90ed147bc16f7072405c7862ee7a969 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-offset-tool
+45e7fe7326fc02cd4594f3baddd59ff1 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-operation-tool
+f981417325afa4270619b3e77b9087dd opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-paintbrush-tool
+a3af239d8fa4f607749959cd7b13c2a7 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-pencil-tool
+d7b31573f299774ed0cb32f551a53428 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-perspective-clone-tool
+93e64a54f0654fc29d31f373c495b697 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-perspective-tool
+ea252dcfd97f52e3791f5b36ac191ae2 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-rect-select-tool
+c74f9818b1bc7e09add2d762cd3e28be opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-rotate-tool
+d81f08cc56d2489a9455572a220d1e53 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-scale-tool
+eb3c41461d2ceb7b19e1b2adad02e44d opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-shear-tool
+69c1254e17ccae4f46dc4fc7a0a3bcfa opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-smudge-tool
+6848122284053374ba817cb41c591e20 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-text-tool
+85e7965b3dc08d87a000843eb2de5706 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-threshold-tool
+8bbf25fc03dc8bff05a83b42c091a9f9 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-transform-3d-tool
+543331e76973736aee9e6ca0ab990b45 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-unified-transform-tool
+3dc755f6f61eb60e3cdff2b0a26e1b6c opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-vector-tool
+9c9ee340c1472954700ce2d8a9554a36 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-warp-tool
+171cac705d809ef8e7c54067ded3f1a3 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/tool-options/gimp-zoom-tool
+3d060c7d83d6dd9feae74f9b1d61c0af opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/toolrc
+52d4ca5efe7ab864d611334cd9e92494 opt/quirinuxconfig/etc/skel/.config/GIMP/2.10/unitrc
+c99cdf86aea775e029397355da2e0245 opt/quirinuxconfig/etc/skel/.config/GIMP/devicerc
+2f860fb4e050d09b22a5e495223fd2c4 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/action-history
+1cddd98a3068fd5ca7e6bd306dcbe51a opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/colorrc
+f3c7e0e2f63141bda49e74f884593cb1 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/contextrc
+dbc0f6b99b9f28cf0995bf66491c10ba opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/controllerrc
+fbea97606113f64211980b5a98f0631d opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/devicerc
+0b4c763e929b60f2f441fbbd8257f652 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/dockrc
+fd74982d1fca5acaf9072c2be7f0aadd opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/internal-data/custom.ggr
+d5986e62d0fc01bb275d1306dfc725f2 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/menurc
+c19ba82084d9d2788d72a534b4d6c8fe opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/parasiterc
+5bf5d32bdd9796bb662e2fe4bff87380 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/pluginrc
+eda902e473f9d0e6166bc78217ead729 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/sessionrc
+d2d9bb5d88cb911128c27b6691a5484b opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tags.xml
+b75db502f90793e2362ec98468269fd1 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/templaterc
+b391528759b84f7349f668dc1d5756ef opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/themerc
+fd1f672451fe9a754f5b36c92bdc2ef5 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-airbrush-tool
+9084df9242839e11f03bf02c826fe586 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-align-tool
+0d988f4936800c8dfcabe6cce95a5771 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-brightness-contrast-tool
+ece5c689c3db090f44bab482e86f6976 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-bucket-fill-tool
+15ec990fefe33c623f697129549f414a opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-by-color-select-tool
+0fa7d248c7ca53fc16f1220af9c94814 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-cage-tool
+cdcc74c56c7370ab7c1d782afbf5abf2 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-clone-tool
+ef87450a907e12c801dfa376b6f21eff opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-color-picker-tool
+826dac93f46c3a8af667dc198dc4f193 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-convolve-tool
+0e17e989caf3d1c677e60959638c1b7b opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-crop-tool
+f384d4609884c819af114a80d0cefe2e opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-curves-tool
+47a7b2bfe38f46b91c1e591541b60545 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-dodge-burn-tool
+cbf1994e30f76065689da1a66133eae7 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-ellipse-select-tool
+63514dc17de20fb983750c13410be2dc opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-eraser-tool
+51e75fe6378128e7a79bc9e969706448 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-flip-tool
+f02669db2f24feef92fa62a95bbca4ed opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-foreground-select-tool
+a122650326d3b73e86a107ccf6ceec58 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-free-select-tool
+0714221193164a97276b390fda130ae5 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-fuzzy-select-tool
+70ef4f4e76c7ab9f5dec67ad1a785f9d opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-gegl-tool
+20098d5337c220c72f7f73ebc408d523 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-gradient-tool
+2be2763965d01881b7e3ee1773d7ffae opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-handle-transform-tool
+bd8cb12dab17321902bbef0999d3b04b opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-heal-tool
+713562d368c8c484b8ce10bb08f40723 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-ink-tool
+bfebf47319bd45aaf77b139c20b56de5 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-iscissors-tool
+92e3cb549f42755fc504beade5648342 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-levels-tool
+a8ab5f6a7055dde404c75e500b57e51e opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-measure-tool
+e466837efd2ad4fff8a03edfe1125706 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-move-tool
+2be4ad69f323ccdececb43945e9990ff opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-mypaint-brush-tool
+a90ed147bc16f7072405c7862ee7a969 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-offset-tool
+f5d7242d0fcb31a332dd9367829f4108 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-operation-tool
+bccb129516518b85cbd92a934f52fc41 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-paintbrush-tool
+0d104b23f7140598292f36feb16352e9 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-pencil-tool
+66568cb9f444c813ed38f65c8ad984c8 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-perspective-clone-tool
+93e64a54f0654fc29d31f373c495b697 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-perspective-tool
+43623bad4af42220c460db6de3ea77d9 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-rect-select-tool
+c74f9818b1bc7e09add2d762cd3e28be opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-rotate-tool
+4e8ac6e5775548460d3f0264d60aba8b opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-scale-tool
+eb3c41461d2ceb7b19e1b2adad02e44d opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-shear-tool
+96e22a9f86c24e356f1387208e0b75a8 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-smudge-tool
+b193bf21164aace0aba4c755ce345bdb opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-text-tool
+85e7965b3dc08d87a000843eb2de5706 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-threshold-tool
+8bbf25fc03dc8bff05a83b42c091a9f9 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-transform-3d-tool
+e2bcf208798c36ec387058f12588438d opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-unified-transform-tool
+7595f8ff2ab4e7170cc9c9b65b7e6a75 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-vector-tool
+9c9ee340c1472954700ce2d8a9554a36 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-warp-tool
+171cac705d809ef8e7c54067ded3f1a3 opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/tool-options/gimp-zoom-tool
+333bc67f9998a6cad263f5727d75febe opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/toolrc
+72cc4c5d9da9f871d851c68717dc636f opt/quirinuxconfig/etc/skel/.config/GIMP-AppImage/2.10/unitrc
+1f7267d29e594d3d97b7464276877336 opt/quirinuxconfig/etc/skel/.config/Imagine/.updaterId
+54cb446f628b2ea4a5bce5769910512e opt/quirinuxconfig/etc/skel/.config/Imagine/Code Cache/js/index
+82c1d112ec2b99fca3e106c082188687 opt/quirinuxconfig/etc/skel/.config/Imagine/Code Cache/js/index-dir/the-real-index
+cf89d16bb9107c631daabf0c0ee58efb opt/quirinuxconfig/etc/skel/.config/Imagine/GPUCache/data_0
+f50f89a0a91564d0b8a211f8921aa7de opt/quirinuxconfig/etc/skel/.config/Imagine/GPUCache/data_1
+0962291d6d367570bee5454721c17e11 opt/quirinuxconfig/etc/skel/.config/Imagine/GPUCache/data_2
+41876349cb12d6db992f1309f22df3f0 opt/quirinuxconfig/etc/skel/.config/Imagine/GPUCache/data_3
+c51254277559bd6a5c7e424ffe059f84 opt/quirinuxconfig/etc/skel/.config/Imagine/GPUCache/index
+b44b883384afa5514a8f1d98ad1211ff opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/LOCK
+928162c89840af2573e97f8c6020019f opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/LOG
+ad9c1b99014c081588109da9d6ebcedc opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/Imagine/Local Storage/leveldb/MANIFEST-000001
+285252a2f6327d41eab203dc2f402c67 opt/quirinuxconfig/etc/skel/.config/Imagine/Network Persistent State
+9f7eadc15e13d0608b4e4d590499ae2e opt/quirinuxconfig/etc/skel/.config/Imagine/Session Storage/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/Imagine/Session Storage/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/Imagine/Session Storage/LOCK
+5c07be3a1ac2cc79e29b5023037467c5 opt/quirinuxconfig/etc/skel/.config/Imagine/Session Storage/LOG
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/Imagine/Session Storage/MANIFEST-000001
+ce8c66720e139146af59277e5487a647 opt/quirinuxconfig/etc/skel/.config/Imagine/log.log
+8f9804f0756ae0bdec03fb3b47e35fb3 opt/quirinuxconfig/etc/skel/.config/Mousepad/accels.scm
+b475ebfed0a3b1174cc92328ca4ff75c opt/quirinuxconfig/etc/skel/.config/Rapid Photo Downloader/Rapid Photo Downloader.conf
+1112911711c28250207b73703a088684 opt/quirinuxconfig/etc/skel/.config/Thunar/accels.scm
+c7448224b9d3896f06c280d0922b0386 opt/quirinuxconfig/etc/skel/.config/Thunar/uca.xml
+03f60481b439a64b383de9f7c0a7cc30 opt/quirinuxconfig/etc/skel/.config/aqemu/AQEMU.conf
+726ec99675003258c5be444e6f54b258 opt/quirinuxconfig/etc/skel/.config/aqemu/QEMU 2.0 #2.emulator
+1f839b7749c719c2a4bb38733990b878 opt/quirinuxconfig/etc/skel/.config/aqemu/QEMU 2.0.emulator
+a774ea5689d6c764bc731ad45826862e opt/quirinuxconfig/etc/skel/.config/aqemu/aqemu.log
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/ardour6/.a6
+1b9e519aa18763bda0fb40578ff2a962 opt/quirinuxconfig/etc/skel/.config/ardour6/config
+9a935d2b7f87e2843e193db1c716a2aa opt/quirinuxconfig/etc/skel/.config/ardour6/instant.xml
+dd11fcef2421b0e419b95e23f363f4d3 opt/quirinuxconfig/etc/skel/.config/ardour6/plugin_metadata/plugin_order
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/ardour6/sfdb
+f8d08388a2f0d46b4bfb5cc171deecfa opt/quirinuxconfig/etc/skel/.config/ardour6/ui_config
+f96440246244db56f8452cfe434092b6 opt/quirinuxconfig/etc/skel/.config/ardour6/ui_scripts
+c0dd4e86e30157afc7dd302b6a550353 opt/quirinuxconfig/etc/skel/.config/audacious/config
+7cbbb557a4d2b679eb29a6c18750507c opt/quirinuxconfig/etc/skel/.config/audacious/playlist-state
+d2880d9b5dfd4c751169942334a1a4dc opt/quirinuxconfig/etc/skel/.config/audacious/playlists/1000.audpl
+a9b7ba70783b617e9998dc4dd82eb3c5 opt/quirinuxconfig/etc/skel/.config/audacious/playlists/order
+ef1c789115a87aacb22ba20a30c83c90 opt/quirinuxconfig/etc/skel/.config/audacious/plugin-registry
+833ed204b0111e1fad0f71274b68f8a7 opt/quirinuxconfig/etc/skel/.config/autostart/Borratemp.desktop
+c1cbc2c350b5b256a3fa1969fdc89d06 opt/quirinuxconfig/etc/skel/.config/autostart/Ptxconf (mapping de tabletas gráficas).desktop
+9355d57a8715820f4836d617477a7253 opt/quirinuxconfig/etc/skel/.config/autostart/Sonido al inicio.desktop
+b5cfa9d6c8febd618f91ac2843d50a1c opt/quirinuxconfig/etc/skel/.config/chromium/BrowserMetrics-spare.pma
+ee002cb9e51bb8dfa89640a406a1090a opt/quirinuxconfig/etc/skel/.config/chromium/CertificateRevocation/6144/LICENSE
+fa1e9de508519734fc9d9606d1dea692 opt/quirinuxconfig/etc/skel/.config/chromium/CertificateRevocation/6144/_metadata/verified_contents.json
+6a35265c0b152ada50a27a5b4651f394 opt/quirinuxconfig/etc/skel/.config/chromium/CertificateRevocation/6144/crl-set
+4018cae6dd088abff9ff4c707dd74b89 opt/quirinuxconfig/etc/skel/.config/chromium/CertificateRevocation/6144/manifest.fingerprint
+d39b420417dc21262ae692e778a0c542 opt/quirinuxconfig/etc/skel/.config/chromium/CertificateRevocation/6144/manifest.json
+5eab6a2eadac67f76596a92c46183f80 opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.16.1141/Preload Data
+a6a110ea3b3841f50d37be30b1c15331 opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.16.1141/_metadata/verified_contents.json
+e8d05c704d23c331907d5ff5f0e7dc96 opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.16.1141/manifest.fingerprint
+36c2aa4bdb19b7e37bc646a535173e0e opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.16.1141/manifest.json
+bd013c33caea9fe46d15864f7fac77d9 opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.22.1142/Preload Data
+c271d43489b0c40a01b79b8c221cc16b opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.22.1142/_metadata/verified_contents.json
+5557a4dc9b8dbd88fad57a4fac2b3284 opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.22.1142/manifest.fingerprint
+4f2f3e65ed3dc72ae49aa619a28db57c opt/quirinuxconfig/etc/skel/.config/chromium/Crowd Deny/2020.9.22.1142/manifest.json
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/000005.log
+51a2cbb807f5085530dec18e45cb8569 opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/LOCK
+e82e4dc5a99d191f93424d1dd7824678 opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/LOG
+01ba332c1ed56cdecec27d1727e4bb2a opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/AutofillStrikeDatabase/MANIFEST-000001
+fd4a2436e6020c60dbb2929975cb1e7d opt/quirinuxconfig/etc/skel/.config/chromium/Default/Bookmarks
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/LOCK
+394e1f596900daae654f0e4eab576435 opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/LOG
+ea32d220d5f037a959df3f9385c58bf9 opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/BudgetDatabase/MANIFEST-000001
+6752a1d65b201c13b62ea44016eb221f opt/quirinuxconfig/etc/skel/.config/chromium/Default/CURRENT
+af1d95e1f9eb485393273b25446e1ae5 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/LOCK
+cae97c31278affacf9501554c74eadb0 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/LOG
+0d5a020a81f8d31ff976d139700fcc96 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Extension State/MANIFEST-000001
+ea61b55d4bd6b72e3428eeaa7f90ddaa opt/quirinuxconfig/etc/skel/.config/chromium/Default/Favicons
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Favicons-journal
+41c7d1373de8e7bd508c548a70910e51 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+bfd85b3850a82759be7e4cacb534bcaf opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+5767c829c1c855da93f8c63931b71c15 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/AvailabilityDB/MANIFEST-000001
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOCK
+a04b6c76e435d2464be76331696a3b49 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG
+fa18ff7438a6b060f80a24aa6b8f2e89 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Feature Engagement Tracker/EventDB/MANIFEST-000001
+99ad541ea2974376ebee336c6e5ee175 opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/LOCK
+ff6c9e0c60f16207e21c07eebd207b6e opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/LOG
+7b23c0479be4d5c48ca80ad6a291882c opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/File System/Origins/MANIFEST-000001
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/LOCK
+c1598a0b2d48430d7510a348e65f8010 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/LOG
+28e78c61d21eced835da2e5600206313 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/GCM Store/Encryption/MANIFEST-000001
+c010bf48da34ada1020571ce6d43e863 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GPUCache/data_0
+239b826d946993b190d7a6f71a216664 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GPUCache/data_1
+0962291d6d367570bee5454721c17e11 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GPUCache/data_2
+f0f84438f4b910342fd4028d33eba0c4 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GPUCache/data_3
+a3baa06e0a9fb51f48d509612df32377 opt/quirinuxconfig/etc/skel/.config/chromium/Default/GPUCache/index
+1ac4784c5f6272d57e596d090a112d58 opt/quirinuxconfig/etc/skel/.config/chromium/Default/History
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/LOCK
+7ec0997b2f02331c189c4fbd115fc1b3 opt/quirinuxconfig/etc/skel/.config/chromium/Default/LOG
+21e0218739ccc9cd6c2097da25069219 opt/quirinuxconfig/etc/skel/.config/chromium/Default/LOG.old
+7e957d693bbab6ad7dec1d3aa28bd69b opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/LOCK
+14572e8980605b4cf62302752e7e4635 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/LOG
+28bf73f950c20fa04a0d2c4dda1db047 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+031d6d1e28fe41a9bdcbd8a21da92df1 opt/quirinuxconfig/etc/skel/.config/chromium/Default/MANIFEST-000004
+4043033c51226805deaf0a9c636db779 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Network Persistent State
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/LOCK
+a3473eb310e4a71a745418e0a6b51b26 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/LOG
+c970b3412da366aa787b8241a46f994f opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Platform Notifications/MANIFEST-000001
+0f644f260b675b3064f3eefa63a75098 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Preferences
+1135823669d36c41df0a0ebdbd64c0c6 opt/quirinuxconfig/etc/skel/.config/chromium/Default/QuotaManager
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/QuotaManager-journal
+dca10252f9f9d0ba6d709c8c14887d25 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Reporting and NEL
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Reporting and NEL-journal
+b6190c49387c0a552367e045cb1ccd19 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Secure Preferences
+c59a77c23d1a2bc6673907c55ff9e174 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/LOCK
+7038252885581d2cc093f4db99bc6df0 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/LOG
+f9b5710e8568b12700e9c8b6a8a87913 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
+54cb446f628b2ea4a5bce5769910512e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/ScriptCache/index
+23283d3c7435ca8f085e9dee41567d4e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Service Worker/ScriptCache/index-dir/the-real-index
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Site Characteristics Database/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Site Characteristics Database/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Site Characteristics Database/LOCK
+821f65b4438f75bdca511ed92db0bb07 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Site Characteristics Database/LOG
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001
+de92ad90be6d3364745b2f73f4c3cf73 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/LOCK
+fc2fba0ef2f7236f44f637ca43bb52bd opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/LOG
+849f190077ea2a737b583df44ec24c21 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+eb18a1d1310a4f889f3c6410baef9039 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Translate Ranker Model
+3c6eea4015514fa0a1f48fa8b3bbfbe7 opt/quirinuxconfig/etc/skel/.config/chromium/Default/TransportSecurity
+0407b455f23e3655661ba46a574cfca4 opt/quirinuxconfig/etc/skel/.config/chromium/Default/VideoDecodeStats/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/VideoDecodeStats/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/VideoDecodeStats/LOCK
+cf9ceb9d41fb98010f193bb129761d13 opt/quirinuxconfig/etc/skel/.config/chromium/Default/VideoDecodeStats/LOG
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/VideoDecodeStats/MANIFEST-000001
+f96f53d740efd56592f8e351c38d5965 opt/quirinuxconfig/etc/skel/.config/chromium/Default/Web Data
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/000007.log
+aefd77f47fb84fae5ea194496b44c67a opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/LOCK
+f1aa407458fbbddc8ed6665365555cd7 opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/LOG
+b2073d1eeea24b7b3d3c8b8dd98b7217 opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/LOG.old
+78c55e45e9d1dc2e44283cf45c66728a opt/quirinuxconfig/etc/skel/.config/chromium/Default/data_reduction_proxy_leveldb/MANIFEST-000006
+7b98f80e330b61f3cafee56168c2fcab opt/quirinuxconfig/etc/skel/.config/chromium/Default/databases/Databases.db
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/databases/Databases.db-journal
+53ff06fa14c785e77fbfea3e65a9cba3 opt/quirinuxconfig/etc/skel/.config/chromium/Default/heavy_ad_intervention_opt_out.db
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/heavy_ad_intervention_opt_out.db-journal
+aab67158c5becf7bcf94d91e2ef0aaf4 opt/quirinuxconfig/etc/skel/.config/chromium/Default/previews_opt_out.db
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/previews_opt_out.db-journal
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/LOCK
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/LOG
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/LOG.old
+b27e5fbec74aa38eb531951043b569ba opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/000003.log
+46295cac801e5d4857d09837238a6394 opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/CURRENT
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/LOCK
+9af3eb38e3ba7a1a2a4fcf0972b475ac opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/LOG
+1658fd508b272965830c07ba34cb5bf6 opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/LOG.old
+5af87dfd673ba2115e2fcf5cfdb727ab opt/quirinuxconfig/etc/skel/.config/chromium/Default/shared_proto_db/metadata/MANIFEST-000001
+a78ad14e77147e7de3647e61964c0335 opt/quirinuxconfig/etc/skel/.config/chromium/Dictionaries/en-US-9-0.bdic
+cad6f4d51ff94dbfef9f3c5cd0da34ea opt/quirinuxconfig/etc/skel/.config/chromium/FileTypePolicies/42/_metadata/verified_contents.json
+159f2c49a47b0a636a039cafde616977 opt/quirinuxconfig/etc/skel/.config/chromium/FileTypePolicies/42/download_file_types.pb
+f9afeb55e8a8fd7dedffbc8ddca8044e opt/quirinuxconfig/etc/skel/.config/chromium/FileTypePolicies/42/manifest.fingerprint
+dcdefee0c3cd999dd22282ec808d98f7 opt/quirinuxconfig/etc/skel/.config/chromium/FileTypePolicies/42/manifest.json
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/First Run
+cf89d16bb9107c631daabf0c0ee58efb opt/quirinuxconfig/etc/skel/.config/chromium/GrShaderCache/GPUCache/data_0
+4d84ce5cbe0618ebe6898314dcd5b70e opt/quirinuxconfig/etc/skel/.config/chromium/GrShaderCache/GPUCache/data_1
+0962291d6d367570bee5454721c17e11 opt/quirinuxconfig/etc/skel/.config/chromium/GrShaderCache/GPUCache/data_2
+41876349cb12d6db992f1309f22df3f0 opt/quirinuxconfig/etc/skel/.config/chromium/GrShaderCache/GPUCache/data_3
+76cfd28268347f06a47b1430ac34f793 opt/quirinuxconfig/etc/skel/.config/chromium/GrShaderCache/GPUCache/index
+044802633ee0d75fb13adf17c528a9d7 opt/quirinuxconfig/etc/skel/.config/chromium/InterventionPolicyDatabase/2018.9.6.0/_metadata/verified_contents.json
+e40244558de79f97d5580e36a7be34c4 opt/quirinuxconfig/etc/skel/.config/chromium/InterventionPolicyDatabase/2018.9.6.0/intervention_policy_database.pb
+8d06ebeb895cb3387467c7c710509cd6 opt/quirinuxconfig/etc/skel/.config/chromium/InterventionPolicyDatabase/2018.9.6.0/manifest.fingerprint
+c782408c0b04aea3d43cb65dab0d65fb opt/quirinuxconfig/etc/skel/.config/chromium/InterventionPolicyDatabase/2018.9.6.0/manifest.json
+d714497fc6d22a459386e68c90d4b196 opt/quirinuxconfig/etc/skel/.config/chromium/Last Version
+446532dd8303a932da3e1a57ec96b0eb opt/quirinuxconfig/etc/skel/.config/chromium/Local State
+d1b9ac6434361a88f569f8cf503fe3d3 opt/quirinuxconfig/etc/skel/.config/chromium/MEIPreload/1.0.5.0/_metadata/verified_contents.json
+4a8dc3759cede7589f716aadfe4a49eb opt/quirinuxconfig/etc/skel/.config/chromium/MEIPreload/1.0.5.0/manifest.fingerprint
+43c627a9ccd89fbeb87f61548c2abc53 opt/quirinuxconfig/etc/skel/.config/chromium/MEIPreload/1.0.5.0/manifest.json
+90d9328facae1a345329249493ac7fb9 opt/quirinuxconfig/etc/skel/.config/chromium/MEIPreload/1.0.5.0/preloaded_data.pb
+6d1d175f88b64546105e3e7c31d1129a opt/quirinuxconfig/etc/skel/.config/chromium/SSLErrorAssistant/7/_metadata/verified_contents.json
+c6abf42cb5af869629971c2e42a87fd5 opt/quirinuxconfig/etc/skel/.config/chromium/SSLErrorAssistant/7/manifest.fingerprint
+4aaa0ed8099ecc1da778a9bc39393808 opt/quirinuxconfig/etc/skel/.config/chromium/SSLErrorAssistant/7/manifest.json
+e2f792c9e2dd86f39e8286b2ead2fc70 opt/quirinuxconfig/etc/skel/.config/chromium/SSLErrorAssistant/7/ssl_error_assistant.pb
+fa6c4206c9a14d596857f4ab3a5af869 opt/quirinuxconfig/etc/skel/.config/chromium/Safe Browsing Cookies
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.config/chromium/Safe Browsing Cookies-journal
+fa2dfc2a15df18bc0efc27d65c1cba31 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2221/_metadata/verified_contents.json
+1be6a3923a9a202587c777887b08dbb6 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2221/manifest.fingerprint
+39e078c8b40e1a8b8cdc2076c68a2708 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2221/manifest.json
+e5366152030ce993257d79ccb4234f75 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2221/safety_tips.pb
+067828c5a6804d7fb23e329bb6fa6182 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2223/_metadata/verified_contents.json
+d1e0c03b0e05565fb9ed1660ef08b5e1 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2223/manifest.fingerprint
+87513e692d6819b01c5cb92544d79f0d opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2223/manifest.json
+dc8a878e5afa128ddf8a0251d6263ef6 opt/quirinuxconfig/etc/skel/.config/chromium/SafetyTips/2223/safety_tips.pb
+cf89d16bb9107c631daabf0c0ee58efb opt/quirinuxconfig/etc/skel/.config/chromium/ShaderCache/GPUCache/data_0
+57b5a4dc981cbe73f1c2d72466fd65a5 opt/quirinuxconfig/etc/skel/.config/chromium/ShaderCache/GPUCache/data_1
+0962291d6d367570bee5454721c17e11 opt/quirinuxconfig/etc/skel/.config/chromium/ShaderCache/GPUCache/data_2
+41876349cb12d6db992f1309f22df3f0 opt/quirinuxconfig/etc/skel/.config/chromium/ShaderCache/GPUCache/data_3
+71adc12aa021ca124788be9b60b8c17f opt/quirinuxconfig/etc/skel/.config/chromium/ShaderCache/GPUCache/index
+f6465bd029e3a9b784ad5fb5e3659392 opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Indexed Rules/27/9.16.0/Ruleset Data
+c48ce6d02251841f44ca7943f364299e opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Unindexed Rules/9.16.0/Filtering Rules
+d33aaa5246e1ce0a94fa15ba0c407ae2 opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Unindexed Rules/9.16.0/LICENSE.txt
+c95f9dcf51e92f1a44c45938ccbbb3d7 opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Unindexed Rules/9.16.0/_metadata/verified_contents.json
+6bbde6fb1c89914548337635b05779ea opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Unindexed Rules/9.16.0/manifest.fingerprint
+05c97276179fe8d38941d83146f1f7b0 opt/quirinuxconfig/etc/skel/.config/chromium/Subresource Filter/Unindexed Rules/9.16.0/manifest.json
+09881379bf684dec60654689e85aec54 opt/quirinuxconfig/etc/skel/.config/chromium/TLSDeprecationConfig/3/_metadata/verified_contents.json
+e8d0f6e7c415acf06c66f5b154790d86 opt/quirinuxconfig/etc/skel/.config/chromium/TLSDeprecationConfig/3/manifest.fingerprint
+cccaf9eabb23e3b83f2cf3b0acbd8414 opt/quirinuxconfig/etc/skel/.config/chromium/TLSDeprecationConfig/3/manifest.json
+0a8a5e035aacfe02da5f5a21c26384a4 opt/quirinuxconfig/etc/skel/.config/chromium/TLSDeprecationConfig/3/tls_deprecation_config.pb
+7406820f5d56fda6baffa951c60679d2 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/LICENSE
+fa9f1d0e53b4402aa2d25ea01b31f728 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/_metadata/verified_contents.json
+fce59c80bd4a40757b81c4e3fb623d14 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/_platform_specific/linux_x64/libwidevinecdm.so
+1ce37be696143ff11c7a5926c3777b70 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/_platform_specific/linux_x64/libwidevinecdm.so.sig
+a2d6d903cd65d415d4bdb998f4310ade opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/imgs/icon-128x128.png
+45d03456d6f94fb2dd632eefd6917d74 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/manifest.fingerprint
+7193eefcfe0a16dee871e33f5ab0b99e opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/4.10.1610.0/manifest.json
+7e7605e034a7fec8fe5333c63d291d75 opt/quirinuxconfig/etc/skel/.config/chromium/WidevineCdm/latest-component-updated-widevine-cdm
+d9cbb0a88b429d41b7fce51b0ca19e9e opt/quirinuxconfig/etc/skel/.config/dconf/user
+0bd1f9ba2bd1f4655be652e033af87e4 opt/quirinuxconfig/etc/skel/.config/evolution/accels
+bd1cbf103e14ce27e68c50eac6e2ba51 opt/quirinuxconfig/etc/skel/.config/evolution/mail/properties.db
+3aab7b00fa6df118cf3b755485eff755 opt/quirinuxconfig/etc/skel/.config/evolution/mail/remote-content.db
+6692d792d09ce34e65d591f5cbb52b68 opt/quirinuxconfig/etc/skel/.config/evolution/mail/state.ini
+88dd416f98b64e35775b4214a8fc59eb opt/quirinuxconfig/etc/skel/.config/evolution/sources/local.source
+74a466b97103a675e1ae6e22b620e2b5 opt/quirinuxconfig/etc/skel/.config/evolution/sources/system-proxy.source
+aa6a4a5a90c60ba83697c2c05da3ddf4 opt/quirinuxconfig/etc/skel/.config/evolution/sources/vfolder.source
+f7366afde30a333de1b407ca18b7c621 opt/quirinuxconfig/etc/skel/.config/gtk-2.0/gtkfilechooser.ini
+3637c2beb4247ebc99b4b2e4be18fdb1 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/apps/granite-widgets.css
+d5e6f55d897a4936b6d34c9afe480da4 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/apps/lightdm-unity-greeter.css
+4a451088e38ab94ddaeb634f2c0027dd opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/bullet-symbolic.svg
+1cf0b67c841b0ccc85ae74a9fde1e34c opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/bullet-symbolic.symbolic.png
+6a6d31284c59349da3fbefb58e2cf26f opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/check-symbolic.svg
+0f03ea1ed27d414ceedae83ea6334b49 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/check-symbolic.symbolic.png
+638b22154c23f79955b9dfdd5b8e225e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-active-selectionmode.png
+2052e66d95f8feba72fce1e950075407 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-backdrop-selectionmode.png
+161f41ed2bef64a2a89edb8d3f9eeccc opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-checked-active-selectionmode.png
+7003993a337b5da91b495e3ab80e57c7 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-checked-backdrop-selectionmode.png
+7580e4559d11fedce34d40ecdb186641 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-checked-hover-selectionmode.png
+7003993a337b5da91b495e3ab80e57c7 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-checked-insensitive.png
+638b22154c23f79955b9dfdd5b8e225e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-hover-selectionmode.png
+1cb042854b71af1c3af9e9cd6b854785 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-mixed-hover.png
+f0145ba6c5c98a1d125a943f9a61e708 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-mixed-insensitive.png
+690c0dbd91efe4521345f4f01f21886f opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-mixed.png
+638b22154c23f79955b9dfdd5b8e225e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-selectionmode.png
+2052e66d95f8feba72fce1e950075407 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/checkbox-unchecked-insensitive.png
+fb3686dff856c9c295c536bebeb5c480 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/dash-symbolic.svg
+7851a4ac2d841d52b0ecf9cc55c2dff8 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/dash-symbolic.symbolic.png
+678565fd6b7326bf6a1d365fdba380d8 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/grid-selection-checked.png
+6e41844866b5d4e87ff0f46887afdafc opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/grid-selection-unchecked.png
+1d7f4ca6b052cf2abb86f29601bdf212 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/pane-separator-vertical.png
+f81ed2fabd886a526c5b6908d671349b opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/pane-separator.png
+4990afa1bef9578c74232689e47ccf13 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/resize-grip.png
+3a032050a1a4f4bb5cd6224c276f1e93 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active-dark.png
+d1d63711089609b312821516a3361794 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active-dark@2.png
+adfc712327a0e783b9f8fe7cc0801bd5 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active-dark@2.svg
+ca735b4ba9f47feda7c028ff3bab2fdd opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active.png
+d5b7682093e11ea8c82b4251a34ffd47 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active@2.png
+7bcb2945c170e4fc1d3cbe3bd4f18b9e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-active@2.svg
+a46e5e7d4a8c847cb8b177fddb5b2357 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-backdrop-dark.png
+cde41502574a162877b95e352090f09e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-backdrop-dark@2.png
+da70490ce9f9fa2a717cac78c537e0e1 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-backdrop.png
+495635ff2c7dd40292a950d75ff8c795 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-backdrop@2.png
+a46e5e7d4a8c847cb8b177fddb5b2357 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-dark.png
+cde41502574a162877b95e352090f09e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-dark@2.png
+58cc3849c939edbaac1c39941b7dc229 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-dark@2.svg
+a46e5e7d4a8c847cb8b177fddb5b2357 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-hover-dark.png
+cde41502574a162877b95e352090f09e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-hover-dark@2.png
+bcd9c98c51b0a03387f03cd91cc2792e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-hover.png
+198f5fd54bb80e0bd721eed6a30a35af opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-hover@2.png
+6d07f2081200c7a85e66c4cb93a7abab opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close-hover@2.svg
+da70490ce9f9fa2a717cac78c537e0e1 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close.png
+495635ff2c7dd40292a950d75ff8c795 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close@2.png
+6f5eae29d995d1609c8b8e6f09a57abd opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-close@2.svg
+ce9470391e0e4d710bed8be2b4d9ae2e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-active-dark.png
+79075910770991b36956fdce9de7f270 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-active-dark@2.png
+93d9624173d9ea801ce6e7a432e41a0e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-active.png
+a464270810dee3de25d7eaa855d94732 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-active@2.png
+6f4291579ebe02420c9da2434969f0a5 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-backdrop-dark.png
+b5d3773cc62f1e1e3194a4842e0c9674 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-backdrop-dark@2.png
+17b8f4a96090a08d07840e2ac2aa5c87 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-backdrop.png
+15bdbe97a2d958ffc08ed383112a1d55 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-backdrop@2.png
+6f4291579ebe02420c9da2434969f0a5 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-dark.png
+b5d3773cc62f1e1e3194a4842e0c9674 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-dark@2.png
+6f4291579ebe02420c9da2434969f0a5 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-hover-dark.png
+b5d3773cc62f1e1e3194a4842e0c9674 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-hover-dark@2.png
+1d5000da5f06b2876a940121d27fdaca opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-hover.png
+563cc385baa9e94433c096f306b373d3 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize-hover@2.png
+17b8f4a96090a08d07840e2ac2aa5c87 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize.png
+15bdbe97a2d958ffc08ed383112a1d55 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-maximize@2.png
+d0c9af63d5701bd3b26d0254dcbfb1ee opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-active-dark.png
+531490f279d1d614fb70ac09a24ac84a opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-active-dark@2.png
+9843aaacc6abe0d6d490ffaee5f78f60 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-active.png
+964dfe9ff7e07937d37cebe58e927d5b opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-active@2.png
+68f4e6059c4a51af7650bf100c6e33ca opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-backdrop-dark.png
+cf4fefe334692ece3d358909bc2027cc opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-backdrop-dark@2.png
+016495fad14f610ab6343c6248176676 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-backdrop.png
+2b97499ede67dc66eb9d2a538c563fe3 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-backdrop@2.png
+68f4e6059c4a51af7650bf100c6e33ca opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-dark.png
+cf4fefe334692ece3d358909bc2027cc opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-dark@2.png
+68f4e6059c4a51af7650bf100c6e33ca opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-hover-dark.png
+cf4fefe334692ece3d358909bc2027cc opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-hover-dark@2.png
+7a16110db1ba3156f89f5be441ee75c2 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-hover.png
+a1df0f40885385ea72a0a6ea336233c7 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize-hover@2.png
+016495fad14f610ab6343c6248176676 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize.png
+2b97499ede67dc66eb9d2a538c563fe3 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/assets/titlebutton-minimize@2.png
+afeb8313a85066803dc5ad814fa4901a opt/quirinuxconfig/etc/skel/.config/gtk-3.0/gtk-dark.css
+29b79c8e7ee36989de50d4fb566fe85e opt/quirinuxconfig/etc/skel/.config/gtk-3.0/gtk.css
+81e99c9567f767a7a7d8247f4f499880 opt/quirinuxconfig/etc/skel/.config/gtk-3.0/gtk.gresource
+871c1aa73967448171da51a0bcc7a85b opt/quirinuxconfig/etc/skel/.config/gtk-3.0/settings.ini
+2ec11954133f7c8d486e270bf68f7a8e opt/quirinuxconfig/etc/skel/.config/guvcview2/video0
+c17a16d49b5c9a362c966e95a5540f52 opt/quirinuxconfig/etc/skel/.config/kdeconnect/certificate.pem
+50b5942d61a9efaeb4905b03581a3866 opt/quirinuxconfig/etc/skel/.config/kdeconnect/privateKey.pem
+6328543cf55b225a2cacea33a58e5408 opt/quirinuxconfig/etc/skel/.config/kpatrc
+b6106a00d890de34c28fb3c5db50abb9 opt/quirinuxconfig/etc/skel/.config/ktorrent_infowidgetrc
+a9814517dcef179502ec80f33c9008e8 opt/quirinuxconfig/etc/skel/.config/ktorrentrc
+0bcbe888c8c73f4f4dadb75abcf632d5 opt/quirinuxconfig/etc/skel/.config/mystiq/mystiq.ini
+239d18ca6691801cf36b96101831bde1 opt/quirinuxconfig/etc/skel/.config/pavucontrol.ini
+3f294e01fbb7c99fc8ba3cd073d86c28 opt/quirinuxconfig/etc/skel/.config/pulse/0ea5381000304fc0b9bcee35d6cfc8c7-card-database.tdb
+0983b1cd411a36e08ff64b484db94b1b opt/quirinuxconfig/etc/skel/.config/pulse/0ea5381000304fc0b9bcee35d6cfc8c7-default-sink
+d84333db8551e85ae7e9d10e6124ad01 opt/quirinuxconfig/etc/skel/.config/pulse/0ea5381000304fc0b9bcee35d6cfc8c7-default-source
+5c046c1ce5e3b9bb1bdabcd54afca3ea opt/quirinuxconfig/etc/skel/.config/pulse/0ea5381000304fc0b9bcee35d6cfc8c7-device-volumes.tdb
+ab509d4437be213b61778ac324930744 opt/quirinuxconfig/etc/skel/.config/pulse/0ea5381000304fc0b9bcee35d6cfc8c7-stream-volumes.tdb
+ead2f345b1847ed7b60d9a92efd0d21e opt/quirinuxconfig/etc/skel/.config/pulse/cookie
+14c207a37b130aec77dbf97c4055b7b9 opt/quirinuxconfig/etc/skel/.config/ristretto/accels.scm
+bd1cda549077677de2b7e7ef97a0b54f opt/quirinuxconfig/etc/skel/.config/vlc/vlc-qt-interface.conf
+66b6df7ae2c414f3a3ed179ff772fe45 opt/quirinuxconfig/etc/skel/.config/vlc/vlcrc
+f35a3d446d9275916d68cb458a069bf5 opt/quirinuxconfig/etc/skel/.config/xarchiver/xarchiverrc
+f07ee2da1e21a49433b73f1b79a5bb62 opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1008x672.rc
+f07ee2da1e21a49433b73f1b79a5bb62 opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1008x720.rc
+a4343ac78271346520fd84a3917cd041 opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1008x721.rc
+e131a622493eadb115a4c18675ab9ef2 opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1264x1008.rc
+5e6fff6c0693b4be4884ec67ae6f22a1 opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1264x928.rc
+fa7af225df464673a03a03b1f7f7e1cb opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1350x1489.rc
+fa7af225df464673a03a03b1f7f7e1cb opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1350x1744.rc
+75d90dfd1a440f08eb8bb78d11a7f6af opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1350x1745.rc
+fa7af225df464673a03a03b1f7f7e1cb opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-1350x1776.rc
+fa7af225df464673a03a03b1f7f7e1cb opt/quirinuxconfig/etc/skel/.config/xfce4/desktop/icons.screen0-2630x721.rc
+c6420faffcc8ff9a91c09cb5ab2fa47d opt/quirinuxconfig/etc/skel/.config/xfce4/helpers.rc
+b8895a6aad22eecead9cb1834ca32c1d opt/quirinuxconfig/etc/skel/.config/xfce4/panel/datetime-7.rc
+61e593ffe174c0f51dd4c0b5627b3f3e opt/quirinuxconfig/etc/skel/.config/xfce4/panel/datetime-8.rc
+0c407874a78b731cb3890789d97cf469 opt/quirinuxconfig/etc/skel/.config/xfce4/panel/screenshooter-11.rc
+2afa382010c0e1346a8d4f52cc69db06 opt/quirinuxconfig/etc/skel/.config/xfce4/panel/whiskermenu-16.rc
+aa9be5c6aea2cfee51546839769bf53e opt/quirinuxconfig/etc/skel/.config/xfce4/terminal/accels.scm
+7a335b35963d4f43254ebe5a77d01047 opt/quirinuxconfig/etc/skel/.config/xfce4/xfce4-screenshooter
+137423032ce311cf8e3a968175c0d010 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml
+9bf5d6a8bac2b298bd8a88b8ea8bc778 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml
+fcea54a2780f324b69aff7bfad383b55 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/ristretto.xml
+6efc43f8a12e36e30a7172077fb15a4b opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+3f6d4d030382ad60547b48412524b652 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+57d7bc6277a3cfc106c3b15e43e88208 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+bfc8bb0106ef0bb776d0ccfdf54b4ca8 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml
+7875c20059728ff04e48944b9634db82 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+74def13b54cb46e22b13c0929f3b72cc opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-power-manager.xml
+c8217aaa6f1a2dea7de21394e54ae9bd opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml
+4131ef338a053c56eef7f21b30a44bc5 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-settings-editor.xml
+6f877e04310319cbbe4c11cc2d7dca0d opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-settings-manager.xml
+ae368e39cf3c6cf3e3b8d82291eed16c opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml
+086db44d7413dbfab9266be77fd69041 opt/quirinuxconfig/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml
+1830c95dc72eb4ab23396a578fb40e65 opt/quirinuxconfig/etc/skel/.local/share/DisplayCAL/logs/DisplayCAL-apply-profiles.log
+bc464d99c7f31a1baaa6b4f7aff65c33 opt/quirinuxconfig/etc/skel/.local/share/evolution/addressbook/system/contacts.db
+bcbe7b0b6b1bb5b0af138d11d51a2a76 opt/quirinuxconfig/etc/skel/.local/share/evolution/calendar/system/calendar.ics
+4cd74b2afa17a8a7ceddc7bcd0eb9cf6 opt/quirinuxconfig/etc/skel/.local/share/evolution/categories.xml
+b399b1476d6c81ab42c135ec157af990 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/..cmeta
+ba378a8d270900b04abc6c8016564d9e opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/..ibex.index
+9be2164556b4189c3229a4c3e2ce0b44 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/..ibex.index.data
+da56722b592029892c33c0c7ab46a367 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/..maildir++
+b399b1476d6c81ab42c135ec157af990 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Drafts.cmeta
+ba378a8d270900b04abc6c8016564d9e opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Drafts.ibex.index
+9be2164556b4189c3229a4c3e2ce0b44 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Drafts.ibex.index.data
+b399b1476d6c81ab42c135ec157af990 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Outbox.cmeta
+ba378a8d270900b04abc6c8016564d9e opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Outbox.ibex.index
+9be2164556b4189c3229a4c3e2ce0b44 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Outbox.ibex.index.data
+b399b1476d6c81ab42c135ec157af990 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Sent.cmeta
+ba378a8d270900b04abc6c8016564d9e opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Sent.ibex.index
+9be2164556b4189c3229a4c3e2ce0b44 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Sent.ibex.index.data
+b399b1476d6c81ab42c135ec157af990 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Templates.cmeta
+ba378a8d270900b04abc6c8016564d9e opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Templates.ibex.index
+9be2164556b4189c3229a4c3e2ce0b44 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/.Templates.ibex.index.data
+85e92854ba774cc1e26452330a9f44c3 opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/local/folders.db
+05ba8e27511dc3d724fc51e51528c7ef opt/quirinuxconfig/etc/skel/.local/share/evolution/mail/vfolder/folders.db
+b0d4e5658e2858c6606b80264d03c00d opt/quirinuxconfig/etc/skel/.local/share/evolution/memos/system/journal.ics
+cca3a00e65ba84f63d1c155a968bd8f3 opt/quirinuxconfig/etc/skel/.local/share/evolution/tasks/system/tasks.ics
+d41d8cd98f00b204e9800998ecf8427e opt/quirinuxconfig/etc/skel/.local/share/flatpak/.changed
+78a00df434443938a1ab310f747705fa opt/quirinuxconfig/etc/skel/.local/share/flatpak/repo/config
+b672a9fe3c213e834f43627576636906 opt/quirinuxconfig/etc/skel/.local/share/ktorrent/log
+2bb7f23f4f7c4ff8e80e841e6e3ae6ee opt/quirinuxconfig/etc/skel/.local/share/ktorrent/log-1.gz
+d9180594744f870aeefb086982e980bb opt/quirinuxconfig/etc/skel/.local/share/ktorrent/magnets
+534746a0d28e37e5795549f9b7fffe63 opt/quirinuxconfig/etc/skel/.local/share/rapid-photo-downloader/downloaded_files.sqlite
+601d81d31943ba48956dc52190e843c8 opt/quirinuxconfig/etc/skel/.local/share/vlc/lua/extensions/userdata/vlsub/vlsub_conf.xml
+7ff0fa2ba26bb39a0719d7c934f173f2 opt/quirinuxconfig/etc/skel/.local/share/vlc/ml.xspf
+f4e81ade7d6f9fb342541152d08e7a97 opt/quirinuxconfig/etc/skel/.profile
+10ce15c8bf77fbdfbafc91803b7a4b25 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/Importar paletas en Scribus.txt
+a5452f21b59ceb92abfd64ba080c9e4e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/Instalar paletas en Krita-Gimp-Inkscape.txt
+38cc2f5d2c0cedf680eb417017bbb091 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/bears.gpl
+745ffb787da9cecbf0f2391067c15ba2 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/bgold.gpl
+e59540604ab27286c1cb4fb2c4eb6f5d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/blues.gpl
+e57204820d0a4bca01e76dec94b540d2 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/borders.gpl
+af39bd4621f1c7172933cf81c919ab22 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/browns_and_yellows.gpl
+7079018b2a888dca0fb76e01e2224579 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/caramel.gpl
+7bda180287ea6ce3267f766a2a4cefa6 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/cascade.gpl
+564781e9d8adf01689021141aa0772f4 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/china.gpl
+6c8163f2c517f8c5e9039af5080aa44a opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/coldfire.gpl
+1ce38bd25c3a3c62e1b378b68c07e301 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/color_wheel-2-rgb.gpl
+b9c556f286b5c5b679691e89de4afabd opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/cool_colors.gpl
+c18d9e829c031081b267659dfbb7445b opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/coralreef.gpl
+1f7ebe9c77811e07ad9b76581238bfdd opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/cranes.gpl
+8b3e9408ee5c9201d1f4434c68da0414 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/crayola48.gpl
+2c9405d9af0ffddba102d190b414a994 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/dark_pastels.gpl
+836eb323985c1eeb7d1872695509ff63 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/default.gpl
+e8232f5237ad7fadb951eea304387f79 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/dmc_names.gpl
+667889d870c0f7149893555db9b6e24b opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/dream.gpl
+bf4e8bcb203044189f3107e2ac331250 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/ega.gpl
+4ff19d73428a9291c5f6d52384d521d8 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/fabric_colored.gpl
+be5b12052c275c27683974e29e2674a8 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/fabric_jeans.gpl
+f313868dbf8373259a38ae119eb0eb74 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/firecode.gpl
+3bb78a5f70d6981fe727f791688f3151 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/gold.gpl
+5e793002bc1d9c4210121a7d74d96e4e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/gps1.gpl
+1f63b48a6ace75416361cff1e88c72f4 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/gray.gpl
+3deb6b0411a40a4fa96a1cf677fa1755 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/grayblue.gpl
+9903c97db6dece5382e64058aae77e12 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/grays.gpl
+86e0f1d7fdb20dc9d71451e04abec4ca opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/grayviolet.gpl
+bd53a10485e037c1129f211365b2994e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/greens.gpl
+0d1f93ec30aa4d1cc6f3547fac2156e6 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/hilite.gpl
+6518a7312032efa69831f701e5740368 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/human_eyes.gpl
+34b940a6b2b8473217ae26a93e55bef3 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/human_hair.gpl
+721a4f1800ca09cc5a794d9f1ccef727 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/human_lips.gpl
+895ff7eaf338e38de219a84ab78683d5 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/human_skin.gpl
+9cbf8fde861dc7b13b28d1db540f62f5 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/inkscape.gpl
+263a86f7278d2a6726a16ece723ff77e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/khaki.gpl
+4eeb86eb513618af1f6947e044d983f7 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/latex-beamer.gpl
+436d404117c33b77a4deb41ffedba5b5 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/lights.gpl
+2341cea210ceb552bad04c24d329a525 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/mac_system.gpl
+402e53b9f5721e8229e8843df2e4637f opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/muted.gpl
+3a36505332fd4e22f572a4d3110b907e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/named_colors.gpl
+be25db70ce6c7cdc129a3a5eac98b51f opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/nature_flowers.gpl
+6b9ea34b29d6e6ada1e835d7b7a90431 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/nature_grass.gpl
+8e95d980bd604849edc37fa69475b907 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/nature_stones.gpl
+dbe72606f463daeb52d79fc7db822d5d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/nature_water_sky.gpl
+2a6274105901f558f616cea84613aa86 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/nature_wood.gpl
+71e7009d080251d7c6446f660d552dab opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/news3.gpl
+3e27c2f42c8e5747a0d1bf9ebf5cbb6e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/op2.gpl
+23949474d0caedc089112a10e265f7a7 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/oracal-751.gpl
+7245ef6742176d594b17ed43746c7b04 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/paintjet.gpl
+88265d7818bd9b2599bc01f9881dd395 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_coated.gpl
+fd8a7d1fb6b88644eb3940ceccf50a63 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_coated_ec_v2.gpl
+d024cfd1c7ba42e1d0b0529841e74da5 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_live.gpl
+9f8f0cde4583f5ca0853074dca15122d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_metallic.gpl
+f862004d4d220d34ea8480d886b1ef6a opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_named.gpl
+22b29f648d79e8b31df3072fcd947fa4 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantano_pastel.gpl
+7a5784271a91319120188ce1f3e36e8c opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pantone_coated_approx.gpl
+57c7f5954b10de1c69512e41e64b149d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pastels.gpl
+13318700808424c18a32401227dac393 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/plasma.gpl
+857afa2dacad67d1ddcadd6a02d3f470 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/play_doh.gpl
+4eaec8198746402e94332396b78847ca opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/pp.gpl
+97e941d3bb5d7c088e2414db38d8c381 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/reds.gpl
+cf99b1234d71de0289c6d3351d9b292f opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/reds_and_purples.gpl
+827b6d94509804f3337401d10040db0d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/royal.gpl
+430350c509410c4d2e5d51d9369f0284 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/scribus.gpl
+6dd9de852c76d1b3ea0c296ec6af212b opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/skin.gpl
+6cc2cc65f1756b9dfadc76a9a5ea8323 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/star_colors.gpl
+1e7b771183fb23401b187122199d464d opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/svg.gpl
+9076c3d49cc76cfb25269a1d42c811ab opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/tango_palette.gpl
+51579671951f09a92e656a9dd2a1342c opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/testgimp_swatches.aco.gpl
+3b875d53a1747d0e66fcf00defd82851 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/tierra.gpl
+0969f6e237005b7fba942d93aa9b316c opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/topographic.gpl
+ffa2ee9701c724885980f266497f5134 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/ubuntu.gpl
+0759a9a61a764e5f67927ef17a18153e opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/visibone.gpl
+4c19a8e11a02da3747eadb5cf4dc8ba7 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/visibone_2.gpl
+16b1b7248e36de663990723f0f6e959b opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/volcano.gpl
+e81b58cab61a3f6b79b49632d3be55f0 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/warm_colors.gpl
+e1dca88e9edcb6a64a9785e7a1531c43 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/watercolor.gpl
+7a8f1011aaff2884565fd74e4f574970 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/web.gpl
+0e90ec0259499ecd7c365008e4786530 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/websafe22.gpl
+3538d2e849e1606b10c24370e384634c opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/windowsxp.gpl
+d3e338df4aa95b38638fc2a05f4bad58 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/color-palettes/x11.gpl
+94050389ea4a5f87d0b4e9195317c81f opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/install.sh
+9c165b4dfca4ce6b6e25806e8a30b531 opt/quirinuxconfig/etc/skel/Paletas Pantano = PANTONE/pantano-scribus.sla
+641c34b80bae15f60db7f0dccd067a09 opt/quirinuxconfig/etc/sysctl.conf
+49e708b22ffdd29589602c8413944f62 opt/quirinuxconfig/sudoers.d/0pwfeedback
+03509a7fada80b4e192b2590ed61a21f opt/quirinuxconfig/sudoers.d/10-installer
+8d3cf36d1713f40a0ddc38e1b21a51b6 opt/quirinuxconfig/sudoers.d/README
+5419feab7c60f27e13c053bd6f5ab38d opt/quirinuxconfig/sudoers.d/appimage
+328b9b24b510377a3f5f3aee377da23c opt/quirinuxconfig/sudoers.d/conky
+232766db98cc2fe231ddad79cbe3d327 opt/quirinuxconfig/sudoers.d/flatpakconfig
+de2ca8bbf2d493151329736130fafd23 opt/quirinuxconfig/sudoers.d/gimp-quirinux-nopasswd
+f517a4c08745a238f98876d6bd78c8e4 opt/quirinuxconfig/sudoers.d/live
+34f8875cdaef3746e54cd1f96cce13aa opt/quirinuxconfig/sudoers.d/mintq
+8a225a37763ffea51b52311e679cbc44 opt/quirinuxconfig/sudoers.d/mintupdate
+6388a03c0eec4c629806fdf14bee83d2 opt/quirinuxconfig/sudoers.d/quirinux
+266ae759102d2dc73bd5f3ce855b37f7 opt/quirinuxconfig/sudoers.d/samba
+d74730674afda5ffaeab4ffa141bc53a opt/quirinuxconfig/usr/local/bin/appimage-permisos
+026f38935cfd4ace9953af9e970d10d4 opt/quirinuxconfig/usr/local/bin/conky-start
+84684afcc62c2a0c1df7d509ba467cd8 opt/quirinuxconfig/usr/local/bin/md5-matic
+f66ef3e53b9f8e8063da96a0c427db00 opt/quirinuxconfig/usr/local/bin/sonido-inicio
+a2293febb3c9b42dcf8a23a43cfe10a7 opt/quirinuxconfig/usr/share/fonts/truetype/ConkySymbols/ConkySymbols.ttf
+83af227affe24fbe90bc8231ed2bdaca opt/quirinuxconfig/usr/share/fonts/truetype/droid-sans-mono/Droid Sans Mono.ttf
+d41d8cd98f00b204e9800998ecf8427e  -

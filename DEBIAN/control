@@ -1,0 +1,15 @@
+Package: quirinux-config
+Version: 1.9.6
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Section: system
+Homepage: https://www.quirinux.org
+Architecture: amd64
+Priority: optional
+Depends: bash-completion, lightdm, quirinux-wifimac-config, plymouth-themes, gtk2-engines-murrine, quirinux-parches, lightdm-gtk-greeter, lightdm-gtk-greeter-settings, libpolkit-gobject-elogind-1-0, lightdm, liblightdm-gobject-1-0
+Recommends: efibootmgr, libefiboot1, quirinux-firmware
+Conflicts: slim
+Installed-Size: 29361
+Description: Quirinux Config
+ Configuraciones específicas para Quirinux 2.0.
+
+

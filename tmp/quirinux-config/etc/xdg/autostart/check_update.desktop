@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=sudo /usr/local/bin/check_update.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Check Update
+Comment=Comprueba la conexión a Internet y ejecuta apt-get update
